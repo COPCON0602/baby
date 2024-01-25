@@ -1,0 +1,366 @@
+{
+    "name": "Bệnh trẻ em",
+    "title": "Một số bệnh thường gặp ở trẻ và các phòng chữa",
+    "diseasesData": [
+        {
+            "id": 1,
+            "name": "Chăm sóc rốn cho trẻ sơ sinh",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Nguyên tắc",
+                    "content": "*  Chăm sóc rốn trẻ sơ sinh là một kỹ thuật chăm sóc trẻ, được làm từ ngay sau đẻ tới khi dây rốn rụng và lên sẹo khô.\n*  Phải bảo đảm vô khuẩn khi cắt rốn và làm rốn.\n*  Rốn phải bảo đảm được khô (không để nước tiểu, nước tắm… làm ướt rốn).\n*  Rốn phải được cố định, băng lại bằng gạc sạch để không bị cọ sát khi trẻ cử động, nhưng cũng phải bảo đảm thoáng.\nThông thường mẹ nên vệ sinh rốn một lần mỗi ngày, thường tiến hành trong thời gian tắm bé xong."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Cách chăm sóc rốn trẻ sơ sinh:",
+                    "content": "*  Trước tiên mẹ nên rửa tay bằng xà bông cho sạch tiếp đó rửa lại bằng dung dịch cồn.\n*  Mở bao gạc rốn, quan sát tình trạng rốn.\n*  Dùng tampon (dùng để ngoáy tai) chấm dung dịch cồn y tế 75% bôi từ đầu rốn xuống chân cuống rốn và rộng ra da bụng quanh chân rốn 3cm. Tuyệt đối không rắc bột kháng sinh vào rốn.\n*  Chờ cồn khô, đắp gạc mỏng lên và băng thun để cố định.\n*  Chăm sóc rốn mỗi ngày cho đến khi da nơi lỗ rốn lành khô lại.\nKhoảng 1-3 tuần sau khi sinh, dây rốn của trẻ sẽ khô và rụng tự nhiên.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F1.1.jpg?alt=media&token=8d7c3f27-f5db-4f0e-848b-1a6e1e0444a7"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Mẹ nên đưa trẻ khi đi khám khi rốn trẻ có các dấu hiệu sau:",
+                    "content": "*  Da vùng quanh cuống rốn ửng đỏ.\n*  Cuống rốn chảy nước vàng hoặc có mùi hôi.\n*  Rốn rụng rồi nhưng còn lại một u hạt.\n*  Rốn tiếp tục rỉ dịch vàng sau khi đã rụng cuống rốn.\n*  Rốn bị lồi."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Thoát vị rốn",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Thoát vị rốn ở trẻ sơ sinh là gì?",
+                    "content": "*  Thoát vị xảy ra khi tổ chức hay một phần nội tạng lồi ra khỏi vị trí bình thường của nó trong cơ thể. Thoát vị rốn xảy ra khi nội tạng trong ổ bụng chui ra ngoài, tạo thành một khối lồi tại vùng rốn. Khối thoát vị có thể chứa dịch, một phần nội tạng ví dụ như: Ruột, hoặc các tổ chức khác từ ổ bụng.\n*  Thoát vị rốn xảy ra thường xuyên nhất ở các bé sinh non hoặc có cân nặng khi sinh thấp. Có tới 75% trẻ sơ sinh có trọng lượng dưới 1,5kg có thoát vị rốn. Dị tật này xảy ra nhiều hơn ở các bé gái.\n*  Hầu hết thoát vị rốn tự cải thiện ở khi trẻ 1 tuổi, mặc dù một số khác mất nhiều thời gian hơn. Khoảng 90% thoát vị rốn cuối cùng sẽ tự đóng lại. Tuy nhiên, khi trẻ được 4 tuổi mà không tự đóng lại thì có thể cần phẫu thuật."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "2. Nguyên nhân trẻ sơ sinh bị thoát vị rốn?",
+                    "content": "Trẻ được nuôi dưỡng trong bụng mẹ bằng dây rốn. Trong thời gian mang thai, dây rốn đi qua một lỗ nhỏ ở cơ bụng của bé và được cắt khi bé chào đời. Trong vòng 1-2 tuần sau sinh cuống rốn teo dần và rụng đi, vết thương lành và tạo thành rốn của trẻ, lỗ ở thành bụng nơi dây rốn đi qua sẽ tự dần dần được đóng lại một cách tự nhiên khi bé lớn. Nếu các cơ không đóng với nhau hoàn toàn ở đường giữa của bụng, điểm yếu này trong thành bụng có thể gây ra thoát vị rốn.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F2.1.jpg?alt=media&token=f470d784-40a2-4c03-8bba-9fb0dbc4ea81"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "3. Các dấu hiệu của thoát vị rốn ở trẻ sơ sinh",
+                    "content": "Các dấu hiệu thoát vị rốn ở trẻ sơ sinh rất dễ nhận biết, chỉ cần cha mẹ quan sát kỹ vị trí rốn của trẻ là có thể nhận ra các dấu hiệu:\n*  Ở vị trí rốn bé sẽ có một khối u mềm nhô lên.\n*  Mỗi khi bé ho, khóc hoặc ưỡn mình có thể thấy chỗ phình. Chỗ phình biến mất khi bé thư giãn hoặc nằm ngửa.\n*  Thoát vị rốn thường không gây đau và không gây bất kỳ sự khó chịu nào.\nNếu trẻ bị thoát vị rốn, bố mẹ hãy đưa trẻ đi khám bác sĩ ngay nếu đột nhiên xuất hiện các triệu chứng sau:\n*  Bé khóc ngằn ngặt, hoặc tỏ ra đau đớn\n*  Bụng có vẻ to hơn, tròn hơn, đầy hơn bình thường\n*  Vùng da khối thoát vị sưng nề và đỏ\n*  Trẻ sốt\n*  Trẻ nôn\n*  Khó đi ngoài hoặc hoàn toàn không đi ngoài\n*  Có máu trong phân\nLưu ý: Cha mẹ không nên dùng tay xoa hoặc ấn mạnh vào rốn với mục đích cho khối thoát vị mềm ra vì điều này có thể gây đau đớn cho trẻ nhưng cũng không giúp cải thiện được tình trạng."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Biến chứng của thoát vị rốn ở trẻ sơ sinh",
+                    "content": "Đối với trẻ em, các biến chứng của thoát vị rốn là rất hiếm. Tuy nhiên, ở một số trường hợp sẽ khiến cho một đoạn quai ruột bị kẹt và không thể nào quay lại vị trí cũ nữa. Ở đoạn ruột này máu nuôi dưỡng sẽ ít đi, khiến cho mô ruột bị tổn thương hoặc dẫn đến đau vùng rốn. Trầm trọng hơn, đoạn ruột có thể bị nghẹt hoàn toàn không nhận được máu, hoại tử có thể xảy ra. Nhiễm trùng có thể lan rộng ra khắp ổ bụng, gây ra tình huống đe dọa tính mạng."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "5. Cách điều trị thoát vị rốn ở trẻ em",
+                    "content": "*  Hầu hết thoát vị rốn nhẹ sẽ tự cải thiện đến khi trẻ 1 tuổi. Khi bé lớn lên, cơ thành bụng khoẻ hơn và có thể đóng kín lỗ hổng thành bụng, thoát vị sẽ tự mất đi.\n*  Phẫu thuật: Các bác sĩ sẽ rạch một đường nhỏ tại cơ của khối này. Các mô đệm thoát vị quay trở lại khoang bụng. Bệnh sẽ khỏi hẳn, không tái phát.\nBiện pháp phẫu thuật được thoát vị rốn ở trẻ em sử dụng đối với:\n*  Trẻ sơ sinh bị thoát vị lớn, bị đau\n*  Thoát vị rốn không biến mất đến khi 4 tuổi\n*  Bị mắc kẹt hoặc chặn đường ruột\nMột số gia đình chữa “mẹo” thường dùng băng dính, đồng xu hoặc các loại băng ép đặt lên vùng thoát vị rốn để làm nó nhỏ đi. Tuy nhiên, phương pháp này không hề mang lại hiệu quả, thậm chí có thể khiến cho tình hình càng xấu hơn. Do đó cha mẹ nên đưa trẻ đi gặp bác sĩ thay vì sử dụng các kinh nghiệm dân gian chưa được kiểm chứng nói trên."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "6. Chăm sóc khi bé bị thoát vị rốn",
+                    "content": "*  Bố mẹ cố gắng không để trẻ khóc nhiều, khóc to.\n*  Hạn chế không để trẻ hoạt động quá mức, làm tăng đột ngột áp lực trong ổ bụng làm khối phồng lớn dần.\n*  Tăng cường cho trẻ thức ăn có nhiều chất xơ, rau củ quả để hạn chế trẻ bị táo bón,vì táo bón có thể khiến trẻ rặn làm tăng hiện tượng thoát vị.\n*  Nếu thấy khối thoát vị to đột biến, cứng chắc, sờ đau, cho trẻ nằm ngửa thấy khối thoát vị không mất, kèm theo đau bụng và nôn thì có thể trẻ bị thoát vị nghẹt. Trong trường hợp này bạn cần cho trẻ đến bệnh viện ngay."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Táo bón",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Dấu hiệu nhận biết táo bón ở trẻ sơ sinh",
+                    "content": "Táo bón ở trẻ sơ sinh là điều thường gặp nhưng không phải ai cũng đủ hiểu biết để nhận biết tình trạng này ở con trẻ. Dưới đây là 3 dấu hiệu giúp bạn nhận biết bệnh ở trẻ."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Trẻ sơ sinh quấy khóc, lười ăn",
+                    "content": "Trẻ bỗng dưng quấy khóc vô cớ, biếng ăn và hay có biểu hiện nhăn nhó khó chịu là một dấu hiệu của bệnh táo bón. Do thức ăn nạp vào cơ thể bé không được hấp thụ, đào thải thậm chí có nguy cơ hấp thụ ngược trở lại. Điều này khiến bé cảm thấy đầy bụng, khó chịu, mệt mỏi nên hay quấy khóc vô cớ, ngủ không sâu giấc. Thức ăn trong cơ thể không được tiêu hóa, đào thải nên trẻ biếng ăn.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F3.1.jpg?alt=media&token=73894651-afa0-4500-a0d9-ec63e9f9641d"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Trẻ sơ sinh đi ngoài ít hơn bình thường",
+                    "content": "Bình thường trẻ sơ sinh bú sữa mẹ từ 8-12 tháng đi vệ sinh trung bình khoảng 1-2 lần/ngày. Còn với những bé đã dùng sữa ngoài thì số lần đi ngoài sẽ ít hơn. Nếu mẹ theo dõi thấy trẻ có biểu hiện đi ngoài ít hơn bình thường, khoảng 1-2 ngày mới đi một lần, phân bón cục rắn và trẻ đi có biểu hiện rặn rất khó khăn. Đặc biệt trẻ phải dùng rất nhiều sức để đẩy phân ra khiến mặt bé nhăn nhó, đỏ bừng. Với dấu hiệu này chứng tỏ trẻ đã mắc bệnh táo bón."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Trẻ bị đầy bụng, khó tiêu",
+                    "content": "Khi mẹ sờ bụng bé thấy bụng lúc nào cũng trong tình trạng phình to và sờ thấy cứng. Điều này chứng tỏ bé bị khó tiêu, đầy bụng. Đây là dấu hiệu của bệnh táo bón ở trẻ sơ sinh."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "2. Nguyên nhân bệnh táo bón ở trẻ sơ sinh",
+                    "content": "Táo bón ở trẻ sơ sinh có rất nhiều nguyên nhân, tuy nhiên có một vài nguyên nhân chính khiến bé gặp phải tình trạng này."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "Do chế độ ăn uống của mẹ",
+                    "content": "Do trẻ sơ sinh còn ít tháng tuổi nên hầu như vẫn bú sữa mẹ hoàn toàn. Vì thế chế độ ăn uống của mẹ ảnh hưởng rất lớn đến dinh dưỡng cũng như tình trạng bệnh lý của con. Việc mẹ ăn nhiều đồ cay nóng, đồ khó tiêu, ít chất xơ, nhiều đạm và ăn uống thiếu dinh dưỡng, chế độ ăn ngủ không hợp lý khiến các chất dinh dưỡng nạp vào cơ thể bé cũng khiến bé dễ bị táo bón.\nĐể bé không bị táo bón, mẹ nên chú ý ăn nhiều thực phẩm giàu chất xơ như rau xanh hay các loại củ quả tươi. Đây là những loại thực phẩm giàu khoáng chất và vitamin có lợi cho sức khỏe. Bên cạnh đó, việc bổ sung sữa chua thường xuyên cũng khiến lợi khuẩn của mẹ tốt hơn."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "Do trẻ sơ sinh dùng sữa ngoài",
+                    "content": "Táo bón ở trẻ sơ sinh còn do mẹ cho bé dùng sữa ngoài quá sớm. Sữa công thức kết hợp nhiều chất mà dạ dày bé phát triển chưa hoàn thiện sẽ khó mà tiêu hóa được. Đây cũng là loại sữa được coi là khó tiêu hóa và nếu mẹ cho bé uống pha không đúng công thức thì khả năng bé bị táo bón là rất cao.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F3.2.jpg?alt=media&token=b201559f-d67a-4591-ab60-091a9f3b69e7"
+                },
+                {
+                    "contentId": 8,
+                    "contentName": "Do bệnh lý",
+                    "content": "Bên cạnh những nguyên nhân khách quan bên ngoài thì việc bé bị táo bón đôi khi là do bệnh lý xuất phát từ chính cơ thể bé. Do tổn thương thực thể ở đường tiêu hóa hoặc các dị tật bẩm sinh như: đại tràng bị phình to (bệnh Hirschsprung), bệnh suy giáp trạng (bệnh Myxoedema) khiến trẻ bị táo bón sớm."
+                },
+                {
+                    "contentId": 9,
+                    "contentName": "3. Cách trị táo bón ở trẻ sơ sinh",
+                    "content": ""
+                },
+                {
+                    "contentId": 10,
+                    "contentName": "Thay đổi chế độ dinh dưỡng cho trẻ",
+                    "content": "Với trẻ đang bú sữa mẹ thì nên cải thiện chế độ ăn uống của mẹ, bên cạnh đó cho bé ăn kết hợp các thực phẩm nhiều chất xơ để hỗ trợ cải thiện hệ tiêu hóa cho bé.\nVới trẻ trong giai đoạn ăn dặm thì rất dễ để thay đổi chế độ dinh dưỡng cho bé. Hãy chủ động cho bé ăn những món ăn có nhiều chất xơ, giàu khoáng chất cùng việc kết hợp cho bé uống thật nhiều nước. Việc này khiến phân trong cơ thể bé mềm ra và sẽ dễ bị đào thải ra ngoài hơn. Thay đổi chế độ dinh dưỡng cho bé cũng là biện pháp lâu dài và hiệu quả để phòng chống tình trạng táo bón ở trẻ sơ sinh."
+                },
+                {
+                    "contentId": 11,
+                    "contentName": "Ngâm hậu môn bằng nước ấm",
+                    "content": "Đây được coi là biện pháp trị táo bón khá hiệu quả đặc biệt với những trẻ lười ăn và hay quấy khóc. Nước ấm có tác dụng kích thích cơ vòng hậu môn giúp bé sơ sinh dễ đi ngoài hơn. Thực hiện việc ngâm hậu môn vào nước ấm khoảng 1-2 lần/ngày, mỗi lần từ 5-10 phút."
+                },
+                {
+                    "contentId": 12,
+                    "contentName": "Massage bụng cho bé",
+                    "content": "Mẹ chỉ cần dùng 3 ngón tay giữa chụm lại, đặt lên vùng bụng xung quanh rốn. Bạn xoa nhẹ với lực ấn vừa đủ để cảm thấy hơi cứng theo chuyển động tròn xung quanh rốn. Điều này khiến thức ăn khó tiêu còn trong bụng sẽ mềm ra và chuyển động xuống hậu môn. Thực hiện mỗi lần 3 phút để kích thích trẻ đi ngoài.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F3.3.jpg?alt=media&token=17f6558f-c490-4261-9b3d-c97725a1fe5c"
+                },
+                {
+                    "contentId": 13,
+                    "contentName": "Dùng nước ép hoa quả",
+                    "content": "Nước ép hoa quả sẽ cải thiện hệ tiêu hóa giúp bé tiêu hóa tốt hơn. Nhờ những dưỡng chất bổ ích có trong hoa quả tươi nên các mẹ hãy yên tâm khi áp dụng phương pháp này nhé."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Khối máu tụ trên đỉnh đầu của trẻ sơ sinh",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Khối sưng trên đỉnh đầu bé là gì và nguyên nhân do đâu?",
+                    "content": "Khối sưng trên đỉnh sau đầu của trẻ sơ sinh thường có hai dạng: Khối sưng do sự phù nề của da đầu và khối sưng do máu tụ dưới da đầu. Cả hai trường hợp đều do chấn thương da đầu do áp lực xảy ra trong quá trình sinh.\nKhối sưng do sự phù nề của da đầu thường kèm theo hiện tượng chồng sọ. Sọ của các bé sơ sinh được cấu tạo bởi nhiều mảnh xương nhỏ. Nơi các xương gặp nhau gọi là khớp sọ. Dưới tác động của áp lực do sinh khó hoặc do dụng cụ giúp sinh tạo nên làm cho da đầu bị phù nề và có thể kèm theo hiện tượng các xương sọ chồng lên nhau, khi sờ không còn thấy khớp sọ.\n Khối sưng do máu tụ dưới da đầu là do các mạch máu nhỏ dưới da đầu bị vỡ, máu chảy và tụ lại dưới da đầu và tạo thành một khối. Não không bị tổn thương."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Khối sưng xuất hiện khi nào và sẽ biến mất trong bao lâu?",
+                    "content": "Khối sưng này thường xuất hiện vài giờ sau sanh và thường tự biến mất sau vài tuần đến vài tháng mà ít khi để lại di chứng.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F4.1.jpg?alt=media&token=89e8dc95-6baa-414e-9cd6-1f3d23ea0baa"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Khối sưng trên da đầu có thể có những biến chứng gì?",
+                    "content": "Khi thấy bé có khối sưng trên đỉnh đầu cần kiểm tra các biến chứng sau:\n*  Gãy xương sọ: thường tự lành mà không có vấn đề gì.\n*  Thiếu máu: gặp trong trường hợp khối máu tụ to do một mất một lượng máu khá lớn.\n*  Vàng da: do lượng máu tụ trên da đầu thoái biến thành bilirubin – chất gây vàng da ở trẻ sơ sinh.\n*  Một số rất ít trường hợp có biến chứng nặng máu chảy vào trong não hoặc chấn thương não do vỡ xương sọ.\n*  Một số ít trường hợp nơi máu tụ bị canxi hóa tạo thành một cục cứng trên da đầu."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Điều trị như thế nào?",
+                    "content": "Thông thường bác sĩ sẽ tiêm cho bé vitamin K giúp tan máu tụ, tránh cho khối sưng nặng thêm, ngoài ra không cần điều trị thêm. Nếu nghi ngờ gãy xương sọ có thể chụp X-quang kiểm tra và thực hiện một số xét nghiệm khác. Vàng da do máu tụ thường nhẹ, chỉ cần theo dõi. Nếu trẻ bị vàng da nặng sẽ được chiếu đèn."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Khi nào đưa bé đến bệnh viện?",
+                    "content": "Bố mẹ cần đưa bé đến bệnh viện để các bác sĩ chuyên khoa kiểm tra khi thấy bé có một trong những biểu hiện sau:\n*  Khối sưng không giảm dần sau khi xuất viện về nhà.\n*  Bé bị vàng da nặng.\n*  Bé kích thích, quấy khóc liên tục không dỗ được."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ỉa chảy",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Trẻ sơ sinh bị tiêu chảy nguy hiểm hơn mẹ tưởng",
+                    "content": "Tiêu chảy là một vấn đề cực kỳ nguy hiểm đặc biệt đối với trẻ sơ sinh. Khác với tình trạng trẻ bị táo bón rất dễ nhận biết, tình trạng trẻ sơ sinh bị tiêu chảy biểu hiện ở sự thay đổi trong cách đi tiêu nhưng nếu không để ý kỹ, bố mẹ sẽ khó nhận ra.\nHậu quả của tình trạng này là sự mất nước, khiến quá trình trao đổi chất, cân bằng thân nhiệt của bé bị ảnh hưởng nhanh chóng. Mất nước nghiêm trọng thậm chí có thể dẫn đến tử vong. Vậy, làm thế nào để nhận biết trẻ sơ sinh bị tiêu chảy, hiểu rõ nguyên nhân và cách xử lý tình trạng này?",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F5.1.jpg?alt=media&token=a45df700-348a-40f8-a086-7041ac1c1f88"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Dấu hiệu trẻ sơ sinh bị tiêu chảy",
+                    "content": "Trước tiên mẹ cần biết khi nào bé đi ngoài bình thường và khi nào bất thường. Bởi vì trẻ sơ sinh không giống như người lớn, không phải lúc nào bé đi ngoài nhiều hơn 3 lần/ngày là mẹ vội quy kết rằng đã bị tiêu chảy đâu nhé! Các bé dưới 3 tháng tuổi vẫn đi ngoài từ 2 đến 5 lần mỗi ngày. Đối với các bé trên 6 tháng việc đi ngoài 1-2 lần mỗi ngày là hoàn toàn bình thường.\nThức ăn chính của bé sơ sinh là sữa mẹ nên trẻ sẽ đi ngoài thường xuyên hơn sau mỗi lần bú và phân thường rất mềm, lỏng, không nặng mùi. Ngoài ra, phân của trẻ cũng sẽ thay đổi khác tùy thuộc vào những gì mẹ đã ăn. Nếu trẻ dùng sữa ngoài thì phân sẽ đặc hơn và nặng mùi hơn so với trẻ bú mẹ.\nViệc xác định chính xác các dấu hiệu bé sơ sinh bị tiêu chảy hay không đôi khi khiến mẹ gặp nhiều khó khăn. Để dễ dàng nhận biết sớm các biểu tiêu chảy mẹ hãy để ý:\n*  Đột nhiên bé đi ngoài nhiều hơn so với những ngày khác, khoảng 10 lần/ngày.\n*  Phân của trẻ sơ sinh bị tiêu chảy: phân lỏng hơn cho đến rất lỏng, loãng hoặc chỉ toàn nước và màu sắc thay đổi, mùi tanh hoặc nhờn hơn.\n*  Trẻ sơ sinh bị tiêu chảy nặng do nhiễm trùng đường tiêu hóa thì phân còn có thể lẫn cả máu. Kèm theo đó trẻ có biểu hiện khó chịu, hay quấy khóc, bú kém, có thể sốt hoặc không, nôn ói."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Nguyên nhân nào làm bé sơ sinh bị tiêu chảy?",
+                    "content": "Nguồn dinh dưỡng chủ yếu của trẻ sơ sinh là sữa mẹ hoặc sữa công thức. Nếu bé bị tiêu chảy có thể do một trong những nguyên nhân chủ yếu sau:\n*  Nhiễm trùng đường ruột: Đây được xem là nguyên nhân hàng đầu gây nên bệnh tiêu chảy ở trẻ sơ sinh, đặc biệt là virus Rota. Loại virus này gây ra bệnh viêm dạ dày, viêm ruột và một số bệnh nhiễm trùng khác.\n*  Không dung nạp lactose: Lactose là một thành phần có trong sữa công thức, sữa bò và cả sữa mẹ. Khi cơ thể trẻ sơ sinh không sản xuất đủ lactase, một loại enzym cần thiết để tiêu hóa Lactose khiến cho hàm lượng Lactose bị tích tụ ở ruột, gây nên các vấn đề về đường ruột trong đó làm cho bé bị tiêu chảy.\n*  Rối loạn tiêu hóa: Do hệ tiêu hóa của trẻ sơ sinh vẫn đang trong giai đoạn hoàn thiện và rất nhạy cảm với những thay đổi dù là nhỏ nhất. Khi bé đang bú sữa mẹ nhưng chuyển sang sữa công thức dễ làm bé bị tiêu chảy. Hay thậm chí một vài món ăn lạ trong thực đơn của mẹ hoặc thực đơn ăn dặm cũng có thể gây nên tình trạng tiêu chảy."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Trẻ sơ sinh bị tiêu chảy phải làm sao?",
+                    "content": "*  Đầu tiên để tránh mất nước, mẹ cần cho bé bú nhiều hơn để bù vào lượng nước đã mất.\n*  Uống thêm khoảng 50-100ml nước Oresol sau mỗi lần đi ngoài.\n*  Vệ sinh tay sạch sẽ trước khi cho bé bú và sau khi thay tã.\n*  Bệnh có diễn biến rất nhanh, gây mất nước trầm trọng nếu không cứu chữa kịp thời sẽ dẫn đến suy thận, suy hô hấp hoặc tử vong. Do đó, ngay khi nhận thấy những triệu chứng nặng mẹ cần đưa trẻ đến bệnh viện càng sớm càng tốt.\nMột ngày trẻ sơ sinh có thể đi ngoài vài lần, kết cấu và màu sắc của phân đôi khi cũng khác nhau nên thường khiến mẹ lầm tưởng con gặp vấn đề về tiêu hóa. Nhưng nếu trẻ vẫn bú khỏe, ngủ tốt, phân không chứa nhiều nước, chất nhờn thì đây là hiện tượng sinh lý bình thường.\nTuy nhiên lại có một số mẹ tự ý điều trị và cho con uống thuốc tiêu hóa, thuốc cam…dẫn đến những hậu quả nghiêm trọng. Do đó, trong quá trình chăm sóc trẻ sơ sinh cha mẹ cần trang bị cho mình những kiến thức cơ bản về hệ tiêu hóa và các vấn đề thường gặp. Xác định rõ nguyên nhân cũng như biết cách nhận biết các dấu hiệu trẻ sơ sinh bị tiêu chảy sớm sẽ giúp chữa trị và chăm sóc bé đúng cách, giúp bé mau chóng hồi phục.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F5.2.jpg?alt=media&token=6d928c41-b247-4295-9d0b-7cd6e7b96298"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "\"Cứt trâu\"",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Cứt trâu không phải do vệ sinh kém",
+                    "content": "Phần lớn ý kiến xác nhận nguyên nhân sinh ra cứt trâu là do các tuyến bã nhờn của nang lông hoạt động quá mạnh, chứ không phải do cha mẹ vệ sinh kém như một số người vẫn nghĩ. Khi bã nhờn tiết ra kết dính với số lượng lớn các tế bào chết sẽ làm cản trở quá trình bong tróc của các tế bào này và tạo thành các mảng bám bẩn trên da bé, điều mà dân gian vẫn gọi là cứt trâu.\nĐa số các trường hợp cứt trâu sẽ tự hết sau ít tháng nếu nhẹ và trong khoảng 1-2 năm nếu nặng. Tuy nhiên, vẫn có một số ít trẻ bị cứt trâu lan rộng và dày thêm, thậm chí lan xuống cả những vùng khác như mặt, cổ và dẫn đến tình trạng bội nhiễm, mưng mủ. Trường hợp này nhất thiết phải đưa trẻ đi khám và điều trị bằng thuốc vì rất có thể môi trường cứt trâu đã tạo điều kiện cho một loại nấm có tên Pityrosporum Ovale sinh sôi và tấn công lên vùng da của trẻ.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F6.1.jpg?alt=media&token=11e69677-7a62-4ec0-9d1b-5d77b8f55a7c"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Dấu hiệu nhận biết",
+                    "content": "*  Có vảy đóng thành từng mảng nứt nẻ trên đầu\n*  Một số vùng có hiện tượng kích ứng gây đỏ\n*  Bé khó chịu và hay quấy khóc.\n*  Có thể đóng váng ở chân mày và mang tai.\nĐa phần các trường hợp bị cứt trâu đều tự khỏi nhưng nếu để ý thấy bé bị mưng mủ, sưng đỏ hoặc lan rộng lên các bộ phận khác ngoài vùng đầu nên cho trẻ đi khám và điều trị kịp thời."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Hướng dẫn trị cứt trâu dứt điểm cho trẻ nhũ nhi",
+                    "content": "Các bác sĩ chuyên khoa đưa ra lời khuyến cáo bạn tuyệt đối không nên dùng tay để cạy những đám gầu của con, vì sẽ làm da bé bị tổn thương, gây viêm nhiễm. Mẹ nên dùng các biện pháp sau để loại bỏ cứt trâu cho bé:\n*  Trước khi đi ngủ buổi tối, thoa một lớp mỏng dầu oliu hoặc vaseline lên đầu trẻ. Sáng hôm sau, bạn sẽ thấy lớp cứt trâu bong ra. Lúc này, dùng một chiếc bàn chải thật mềm để loại bỏ các mảng bong tróc này.\n*  Tắm gội hằng ngày cho trẻ bằng sữa tắm gội dành riêng cho trẻ sơ sinh, có độ Ph thấp hoặc dùng loại dầu gội có Biotin. Khi gội cần nhẹ nhàng, không dùng lực để tránh tổn thương đến thóp bé. Nên nhớ, trước khi tắm nên thoa lên đầu trẻ một lớp dầu oliu và giữ nguyên như thế trong khoảng nửa tiếng để cứt trâu bong tróc dần ra.\n*  Sau khi tắm, dùng một chiếc khăn mềm, khô vỗ nhẹ lên đầu vùng đầu có cứt trâu. Sau khi cứt trâu bong ra, dùng khăn nhẹ nhàng lau sạch các mảng bong tróc này\n*  Ngoài ra, một số mẹo dân gian cũng có thể giúp loại bỏ cứt trâu như thấm nước chè đặc lên vùng đầu có cứt trâu trước khi gội hoặc lấy 10g quả bồ kết đem nướng giã nhỏ bôi vào vị trí có cứt trâu khoảng 15-20 phút gội đầu cho trẻ. Ngày làm 1 lần. Tùy lượng cứt trâu nhiều hay ít mà dùng trong 1 hay vài ngày.\n*  Sau cùng, mẹ nhớ không nên bịt đầu trẻ quá kín bằng những loại mũ dày khi trẻ ở nhà. Nếu ra đường khi trời trở lạnh nên dùng những loại mũ cotton có độ thấm hút tốt để giữ ấm cho trẻ nhằm tránh tình trạng ẩm ướt khi trẻ đổ mồ hôi."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Viêm phổi ở trẻ sơ sinh",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Viêm phổi ở trẻ sơ sinh",
+                    "content": "Viêm phổi là bệnh dễ mắc ở trẻ sơ sinh và trẻ nhỏ, hay gặp nhất là ở trẻ dưới 3 tuổi (trên 80%) trong đó dưới 12 tháng tuổi là 65%.\nBệnh viêm phổi thường gặp ở trẻ sơ sinh gồm 2 loại: viêm phổi do hô hấp và viêm phổi do nhiễm khuẩn. Viêm phổi do hô hấp khá nghiêm trọng, nguyên nhân là khi sinh ra bé bị nuốt phải nước ối, phân thai. Tuy nhiên ngay sau khi sinh bác sĩ có thể phát hiện và điều trị kịp thời. Viêm phổi do nhiễm khuẩn gồm nhiễm khuẩn trong tử cung và nhiễm khuẩn sau khi sinh. Các loại vi khuẩn, virus, ký sinh trùng.....sinh sôi, nảy nở và tạo nên những ổ nhiễm khuẩn trong phổi trẻ.\nViêm phổi ở trẻ sơ sinh thường xuất hiện sớm, sau đẻ từ 12 giờ đến vài ngày, diễn biến nhanh và nặng. Không giống với viêm phổi ở trẻ lớn những biểu hiện điển hình là sốt cao, ho nhiều, nghe lưng có thể thấy tiếng rít. Ở trẻ sơ sinh do đường hô hấp chưa phát triển đầy đủ nên triệu chứng lâm sàng thường không rõ ràng và dễ bị bỏ qua.\nTriệu chứng viêm phổi ban đầu ở trẻ sơ sinh thường có các dấu hiệu như:\n*  Trẻ bú kém hoặc bỏ bú\n*  Sốt trên 37,5 độ C hoặc hạ thân nhiệt.\n*  Trẻ thở nhanh trên 60 lần trong 1 phút hoặc khó thở.\nKhi có những triệu chứng rõ ràng thì bệnh đã ở diễn biến nặng: Trẻ sốt hoặc hạ thân nhiệt, li bì, bú kém hoặc bỏ bú, nôn nhiều, chướng bụng, khó thở, rút lõm lồng ngực, tím tái... Do đó, cha mẹ hoặc người thân cần chú ý tình trạng của trẻ để sớm phát hiện các dấu hiệu ban đầu phải đưa trẻ ngay đến cơ sở y tế để được khám và điều trị kịp thời tránh biến chứng viêm phổi nặng.\nViêm phổi ở trẻ sơ sinh nếu không được chữa trị kịp thời có thể gây ra nhiều biến chứng nguy hiểm ảnh hưởng đến sự phát triển của trẻ sau này như: Viêm màng não, nhiễm trùng máu, tràn mủ màng phổi, tràn dịch màng tim, trụy tim, kháng kháng sinh, còi xương kém phát triển.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F7.1.jpg?alt=media&token=354cb927-6dc2-4fef-9e33-33935149758e"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "2. Cách chăm sóc trẻ sơ sinh bị viêm phổi",
+                    "content": "Việc lựa chọn thuốc điều trị cho trẻ bị viêm phổi tùy thuộc vào nguyên nhân gây bệnh và do bác sĩ quyết định. Cha mẹ tuyệt đối không được tự ý mua thuốc kháng sinh, thuốc giảm ho điều trị cho con tại nhà. Thuốc kháng sinh sẽ không có tác dụng trong trường hợp trẻ bị viêm phổi do virus. Ho là phản xạ tốt để tống xuất chất đờm ra khỏi đường thở, làm thông thoáng đường thở nên không được cho trẻ uống thuốc giảm ho khi chưa có chỉ định của bác sĩ.\nMột số cách chăm sóc hiệu quả mà cha mẹ có thể làm giúp trẻ sơ sinh nhanh khỏi bệnh như sau:"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Hạ sốt cho trẻ",
+                    "content": "*  Chườm ấm tích cực (nhiệt độ nước chườm được xác định bằng cách nhúng cùi chỏ của người lớn vào chậu nước, thấy ấm là được).\n*  Nếu trẻ bị sốt trên 38,5 độ C, cho trẻ uống thuốc hạ sốt theo chỉ định của bác sĩ."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Vỗ lồng ngực và giúp trẻ bài tiết đờm hiệu quả",
+                    "content": ".Nên thực hiện vỗ lưng khi dạ dày rỗng, tốt nhất là trước bữa ăn hoặc sớm nhất là 1 giờ sau khi ăn để tránh gây nôn. Cha mẹ có thể tiến hành vỗ lồng ngực nhiều lần trong ngày. Chú ý hút đờm dãi khỏi mũi họng của trẻ trước và sau khi vỗ rung lồng ngực. Cởi bỏ quần áo bó chẽn khỏi người trẻ rồi đặt trẻ ở tư thế thích hợp, cha mẹ cần tháo bỏ nhẫn, đồng hồ và vòng đeo tay rồi thực hiện lần lượt các bước sau:\n*  Bạn phủ một tấm vải mỏng lên người trẻ (nếu trẻ cởi trần), tránh vỗ trực tiếp vào da.\n*  Gập bàn tay của bạn ở chỗ cổ tay rồi khum bàn tay lại. Giữ cho ngón cái ép vào ngón trỏ. Khi vỗ vào lồng ngực, bạn sẽ nghe thấy âm thanh rỗng bồm bộp do khí kẹt giữa lòng bàn tay khum lại và lồng ngực gây ra. Nếu âm thanh phát ra bèn bẹt, giống như khi vỗ tay, thì bạn cần kiểm tra lại vì có thể bàn tay bạn cong chưa đủ. Vỗ đúng cách không hề gây đau.\n*  Khi vỗ lồng ngực, bạn chỉ cần di chuyển cổ tay chứ không phải di chuyển cánh tay và vai. Vỗ lần lượt bên phải rồi sang bên trái. Cần chú ý không vỗ vào vùng dạ dày, xương ức hay xương sống.\n*  Tiếp tục vỗ dứt khoát và đều đặn, nhưng không được quá mạnh, khoảng 3-5 phút ở mỗi khu vực.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F7.2.jpg?alt=media&token=8abdb206-6bb2-4da7-bfd3-70c53f93ed3f"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Vệ sinh và chế độ ăn cho trẻ",
+                    "content": "*  Nên dùng khăn giấy mềm lau sạch nước mũi, nước dãi rồi vứt bỏ khăn ngay sau khi sử dụng. Nếu dùng khăn xô thì phải thật đặc biệt chú ý giữ gìn vệ sinh khăn. Việc dùng đi dùng lại khăn xô đã bị nhiễm bẩn và không được giặt sạch sẽ tạo điều kiện để vi khuẩn, virus bám trên khăn quay trở lại cơ thể trẻ.\n*  Vệ sinh nhà cửa, đồ chơi, đồ dùng của trẻ. Người chăm sóc trẻ cần phải rửa tay sạch sẽ trước khi chăm sóc và chuẩn bị đồ ăn cho trẻ.\n*  Cho trẻ ăn thức ăn giàu dinh dưỡng, lỏng, mềm, dễ tiêu, dễ nuốt.\n*  Cho trẻ ăn theo nhu cầu, chia thành nhiều bữa trong ngày và số lượng mỗi bữa ít hơn bình thường, không nên ép trẻ ăn hết phần thức ăn mà bạn đã chuẩn bị.\n*  Có thể dùng quất hấp mật ong, hoa hồng hấp đường, gừng, chanh cho trẻ uống để đỡ ho."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "3. Phòng bệnh",
+                    "content": "Vệ sinh sạch sẽ, tránh lây lan, không hút thuốc lá, đun nấu trong phòng có trẻ nhỏ. Phải để bé tránh xa những người bị cảm cúm, ho gà,...\n*  Nơi ở nên đủ ánh sáng, thoáng mát.\n*  Đưa trẻ đi tiêm phòng đầy đủ và đúng lịch các vắc xin như: phế cầu, cúm, bạch hầu - ho gà- uốn ván...\n*  Phát hiện sớm các biểu hiện sớm của bệnh nhiễm trùng đường hô hấp nói chung ở trẻ như: ho, sốt, chảy nước mũi, khó thở và các rối loạn khác như tiêu chảy, ăn kém, bỏ bú, chậm tăng cân.....để chăm sóc và điều trị kịp thời.\n*  Nên cho trẻ bú sữa mẹ ngay sau sinh đến 2 tuổi để cơ thể trẻ phát triển toàn diện và sức đề kháng tốt."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tưa lưỡi",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Nguyên nhân tưa lưỡi ở trẻ sơ sinh",
+                    "content": "*  Thủ phạm chính gây nên chứng tưa lưỡi trẻ sơ sinh nhỏ là do một loại nấm, phổ biến là nấm Candida albican. Loại nấm này thường cư trú và sinh sống trong đường ruột.\n*  Tuy nhiên, trong một trường hợp nào đó, việc sử dụng thuốc kháng sinh cũng là một nguyên nhân khiến nấm candida phát triển hay đối với những trẻ sơ sinh có hệ thống miễn dịch kém cũng dễ có nguy cơ bị tưa lưỡi.\n*  Khi màng trắng trong miệng bé bị bong, bé sẽ bị đau rát khi nhai, nuốt thức ăn. Bé chảy nhiều nước dãi, miệng hôi và có thể bị sốt cao.\n*  Do cách chăm sóc trẻ sơ sinh chưa đúng cách cũng là nguyên nhân gây ra tưa lưỡi ở trẻ sơ sinh. Nếu bé đã bước vào tuổi ăn dặm, bạn nên cho bé dùng những loại thức ăn mềm, dạng lỏng để miệng bé không bị đau rát. Trong quá trình mang bệnh, bạn không nên để bé tiếp xúc với các bé khác để tránh nguy cơ lây nhiễm."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Triệu chứng nhận biết tưa lưỡi ở trẻ sơ sinh",
+                    "content": "Các tổn thương thường thấy của tưa lưỡi ở trẻ sơ sinh là những mảng trắng (có khi màu xám) được tìm thấy trên bề mặt lưỡi (có thể còn ở bên trong của má, môi, vòm họng), dùng tăm bông không thể lau sạch. Các mảng xơ vữa của chứng tưa lưỡi thường được mô tả như sữa đông. Các tổn thương này có thể gây đau cho bé, dẫn tới lười ăn. Đối với một số ít bé khác, dường như không có cảm giác khó chịu nào.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F8.1.jpg?alt=media&token=8486c417-416b-43ee-ac2e-72726fa65736"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Cách trị khỏi tưa lưỡi ở trẻ sơ sinh hiệu quả tại nhà\n1. Rau ngót",
+                    "content": "Lấy một nắm rau ngót, rửa sạch, sau đó tráng bằng nước sôi để nguội. Dùng cối giã nhỏ rau ngót lấy nước, sau đó dùng khăn thấm và lau lưỡi cho bé. Phương pháp dùng rau ngót trị tưa lưỡi trẻ sơ sinh này rất thông dụng. Hiện nay, nhiều bà mẹ vẫn thường sử dụng nước rau ngót để chữa tưa lưỡi ở thời gian đầu trẻ sơ sinh tại nhà rất hiệu quả.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F8.2.jpg?alt=media&token=7baac536-6f63-4502-bfe8-e2e71a4452fd"
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "2. Nước trà xanh",
+                    "content": "Lấy lá trà xanh trị tưa lưỡi cho trẻ cũng là 1 cách rất hiệu quả tại nhà, bạn hãy rửa sạch và đun sôi (lưu ý cho vài hạt muối). Dùng khăn thấm vào nước trà xanh sau khi đã để nguội để lau lưỡi cho bé. Cách chữa này cũng hiệu quả, tuy nhiên do một số tính chất trong trà xanh, phương pháp này chỉ phù hợp với trẻ ngoài 6 tháng tuổi.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F8.3.jpg?alt=media&token=efb5eee6-b948-45ec-9142-f267c0c581b5"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "3. Nước muối loãng",
+                    "content": "Pha nước muối loãng bằng nước sôi để nguội hoặc dùng nước muối sinh lý 0.1%. Dùng miếng gạc nhỏ quấn vào ngón tay út, thấm vào nước muối. Lau miệng cho bé nhẹ nhàng, từ trong ra ngoài khoang miệng.\nSử dụng nước muối sinh lý chữa tưa lưỡi cho hiệu quả cao. Nước muối sinh lý 0.1% không gây ảnh hưởng đến sức khỏe của trẻ ở bất kỳ độ tuổi nào."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "4. Thuốc muối dạ dày (Natri Bicacbonat)",
+                    "content": "Lấy 50 g thuốc Natri Bicarbonat cho vào một cốc nước sôi để nguội, khuấy đều cho thuốc tan hết cho đến khi thuốc không tan thêm được thì thôi (gọi là đã bão hòa), chắt lấy nước thuốc, cho vào lọ, để dùng dần.\nKhi dùng, lấy tăm bông chấm thuốc, bôi nhẹ lên chỗ bị tưa, bôi rộng ra cả ngoài rìa, vì thuốc muối không độc, dù có uống cũng không sao, ngày bôi thuốc nhiều lần."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "4. Thuốc muối dạ dày (Natri Bicacbonat)",
+                    "content": "Pha loãng 7-8 giọt tinh dầu hạt bưởi trong khoảng 30 ml nước. Sử dụng dung dịch này để lau lưỡi, miệng cho bé sau mỗi lần bú\n* Lưu ý :\n  -  Có nhiều ông bố bà mẹ chưa hiểu rõ về tưa lưỡi muốn tìm mọi cách để cạo sạch đi những đốm trắng này cho bé, nhưng điều này là vô ích và sẽ khiến bé bị chảy máu lưỡi. Ngoài ra, nếu dùng gạc hoặc khăn xô chà xát mạnh, có thể gây tổn thương niêm mạc lưỡi bé.\n  -  Tưa lưỡi ở trẻ sơ sinh có thể lây được nên bạn phải vệ sinh sạch sẽ trước khi cho con bú.\n  -  Khi bé bị đau không dám bú sữa mẹ, có thể vắt sữa mẹ ra rồi dùng thìa nhỏ cẩn thận bón cho bé uống."
+                },
+                {
+                    "contentId": 8,
+                    "contentName": "Cách phòng tránh bệnh tưa lưỡi ở trẻ",
+                    "content": "*  Nên khử trùng, tiêu độc, vệ sinh sạch sẽ dụng cụ ăn của bé.\n*  Không nên dùng dụng cụ đánh tưa lưỡi cho bé thường xuyên, chỉ nên vệ sinh miệng cho bé một cách nhẹ nhàng nhất.\n*  Khi trẻ sơ sinh bú xong bạn nên vệ sinh miệng cho bé. Hạn chế không để con ngậm sữa trong miệng quá lâu."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Chứng vàng da",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Bệnh vàng da sinh lý thường gặp ở trẻ sơ sinh. Trẻ sơ sinh bị vàng da ở vùng da trên người và cả lòng trắng. Hiện tượng này thường biến mất sau 1 – 2 tuần sau sinh nhưng có trường hợp kéo dài hơn do các bệnh lý nguy hiểm về gan. Dù vậy, tốt hơn hết bạn nên đưa bé đến gặp bác sĩ để tìm hiểu nguyên nhân."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Nguyên nhân vàng da ở trẻ sơ sinh",
+                    "content": "Máu của con người chứa bilirubin. Da của trẻ sơ sinh trông có màu vàng là do nồng độ sắc tố bilirubin trong máu cao. Bilirubin là một trong những sản phẩm phụ được tạo ra khi các tế bào hồng cầu vỡ ra. Thông thường, gan sẽ loại bỏ bilirubin khỏi máu, sau đó sẽ thải nó ra ngoài thông qua việc đi vệ sinh (phân của chúng ta có màu vàng là do vi khuẩn oxy hóa bilirubin).\nTrong thời kỳ mang thai, gan của mẹ sẽ loại bỏ bilirubin cho thai nhi. Sau khi sinh, phải mất một thời gian gan của bé mới bắt đầu làm việc. Kết quả là loại sắc tố này sẽ tích tụ trong máu của bé và gây vàng da.\nTình trạng này được gọi là vàng da sinh lý ở trẻ sơ sinh, thường xuất hiện vào ngày thứ 2 hoặc thứ 3 sau khi sinh và tự biến mất trong vòng 2 tuần. Ở những bé sinh non tháng, nó có thể xuất hiện ở ngày thứ 5 đến ngày thứ 7 và có thể phải mất đến 2 tháng mới mất đi.\nMàu vàng đầu tiên sẽ xuất hiện trên mặt em bé, sau đó di chuyển xuống cổ và ngực. Trong trường hợp nặng, nó sẽ tiếp tục lan xuống cho đến ngón chân, ngón tay.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/diseases%2F9.1.jpg?alt=media&token=dd283159-e958-44fb-8214-f8d36c3cad1b"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Vàng da ở trẻ sơ sinh có nguy hiểm không?",
+                    "content": "Trong phần lớn các trường hợp, vàng da ở trẻ sơ sinh không phải là tình trạng mà bố mẹ cần phải lo lắng. Tuy nhiên, nếu nồng độ bilirubin của con quá cao, bệnh vàng da có thể gây tổn thương vĩnh viễn cho hệ thần kinh bé. Hội chứng này gọi là kernicterus, có thể làm cho bé điếc, chậm phát triển hoặc bại liệt. Tuy nhiên, phần trăm trẻ sơ sinh mắc phải hội chứng kernicterus là không cao."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Vàng da ở trẻ sơ sinh có xảy ra khi mẹ cho con bú không?",
+                    "content": "Việc nuôi con bằng sữa mẹ không gây ra tình trạng vàng da, nhưng vàng da có nhiều khả năng xảy ra ở trẻ sơ sinh bú sữa mẹ. Lượng dịch không đủ trong cơ thể làm nồng độ bilirubin trong máu tăng lên. Vì vậy, nếu mẹ chưa có nhiều sữa đủ cho con bú, nhiều khả năng bé sẽ bị vàng da. Trẻ bú sữa công thức cũng bị vàng da nếu không được cung cấp đủ sữa.\nNếu bạn nghĩ con không có đủ sữa mẹ, hãy trao đổi vấn đề này với bác sĩ. Một khi bạn cải thiện tư thế cho bú tốt hơn, bổ sung sữa mẹ hoặc sữa công thức cho con nhiều hơn thì con sẽ nhận được đủ lượng sữa mẹ và tình trạng vàng da cũng sẽ biến mất. Bạn nên cho con bú ít nhất từ 8 – 12 lần một ngày trong vài ngày đầu tiên.\nMột số bé gặp phải tình trạng “vàng da do sữa mẹ” vào thời điểm từ 7 đến 11 ngày tuổi. Con vẫn có thể bú tốt và tăng cân bình thường, nhưng một chất gì đó trong sữa mẹ ảnh hưởng khả năng của gan bé trong việc chuyển hóa bilirubin. Điều này thường xảy ra cùng với tình trạng vàng da sinh lý và nó có thể tiếp tục trong vài tuần hoặc thậm chí vài tháng sau đó.\nVàng da do sữa mẹ rất phổ biến ở những bé bú mẹ hoàn toàn, nhưng tình trạng này không nguy hiểm. Nếu nồng độ bilirubin của bé quá cao, bạn nên ngừng cho con bú trong 1 hoặc 2 ngày để tình trạng giảm xuống. Bạn có thể sử dụng máy hút sữa để duy trì lượng sữa trong thời gian này và một khi mức bilirubin giảm xuống thì có thể bắt đầu cho con bú lại."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Xét nghiệm, chẩn đoán vàng da ở trẻ sơ sinh",
+                    "content": "Sau khi trẻ chào đời, bác sĩ sẽ kiểm tra trẻ sơ sinh có bị vàng da hay không bằng cách nhìn vào mắt bé từ 3 đến 5 ngày sau khi sinh, khi nồng độ bilirubin trở nên cao nhất.\nNếu có bất kỳ lo ngại về việc trẻ sơ sinh bị vàng da, bác sĩ có thể làm xét nghiệm da hoặc xét nghiệm máu để kiểm tra nồng độ bilirubin. Việc kiểm tra chắc chắn sẽ được thực hiện nếu em bé có biểu hiện vàng da trong 24 giờ đầu tiên vì tình trạng vàng da xuất hiện lúc đó có nhiều khả năng cho thấy có vấn đề nghiêm trọng.\nMột số xét nghiệm có thể như:\n*  Xét nghiệm viêm gan siêu vi\n*  Xét nghiệm chức năng gan\n*  Xét nghiệm công thức máu toàn bộ\n*  Chụp CT bụng\n*  Siêu âm bụng\n*  Nội soi chụp mật tụy ngược dòng\n*  Chụp mật qua da xuyên gan\n*  Sinh thiết gan\n*  Kiểm tra nồng độ cholesterol trong máu\n*  Xét nghiệm thời gian Prothrombin.\nTuy nhiên, nếu rời bệnh viện ngay sau khi sinh, tình trạng vàng da ở trẻ sơ sinh có thể xuất hiện khi ở nhà, lúc đó chỉ có bạn mới là người đầu tiên biết bé có bị vàng da hay không.\nVì thế, bạn hãy nắm vững cách kiểm tra xem bé có bị vàng da hay không bằng những cách sau:\n*  Mang bé vào phòng có nhiều ánh sáng tự nhiên hoặc dưới ánh đèn huỳnh quang.\n*  Nếu con có làn da trắng, hãy nhẹ nhàng ấn ngón tay lên trán, mũi hoặc ngực và tìm kiếm màu vàng trên da sau khi thả ngón tay ra.\n*  Nếu con có làn da tối, hãy tìm màu vàng trên nướu hoặc tròng trắng của mắt."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "4. Thuốc muối dạ dày (Natri Bicacbonat)",
+                    "content": "Lấy 50 g thuốc Natri Bicarbonat cho vào một cốc nước sôi để nguội, khuấy đều cho thuốc tan hết cho đến khi thuốc không tan thêm được thì thôi (gọi là đã bão hòa), chắt lấy nước thuốc, cho vào lọ, để dùng dần.\nKhi dùng, lấy tăm bông chấm thuốc, bôi nhẹ lên chỗ bị tưa, bôi rộng ra cả ngoài rìa, vì thuốc muối không độc, dù có uống cũng không sao, ngày bôi thuốc nhiều lần."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "Khi nào nên đưa trẻ đến bác sĩ khám?",
+                    "content": "Bạn nên đưa bé đi bác sĩ nếu da của bé, đặc biệt là ở phần lòng trắng của mắt, bụng hoặc cánh tay hay chân của bé có màu vàng. Bố mẹ cũng nên gọi bác sĩ nếu con có dấu hiệu khó tỉnh dậy, quấy khóc, không muốn ăn hoặc thậm chí tình trạng vàng da nhẹ nhưng kéo dài trong hơn 3 tuần."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Nguyên nhân và cách trị nấc cụt sơ sinh",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Nguyên nhân gây nấc cụt ở trẻ sơ sinh",
+                    "content": "Nấc cụt (gọi đơn giản là nấc) được tạo ra do cơ hoành bị kích thích không liên tục đồng thời nắp thanh âm bị đóng lại đột ngột. Đây là một hiện tượng thường xuyên xảy ra, hay gặp ở các trẻ dưới 1 tuổi. Có rất nhiều nguyên nhân như:\n*  Em bé bú quá no, trẻ nuốt nhiều không khí nhất là sau bú bình. Vì khi bú bình không đúng cách khiến cho bé nuốt được một lượng khí đáng kể vào dạ dày. Khi đạt vượt ngưỡng chịu đựng của dạ dày, nó tạo kích thích khiến cơ hoành bị co thắt và tạo tiếng nấc.\n*  Trào ngược dạ dày: Khi xuất hiện nấc có thể là do axit trong dạ dày đang đi ngược vào thực quản. Đây là nguyên nhân phổ biến vì cơ quan tiêu hóa của dạ dày chưa được hoàn thiện.\n*  Nhiệt độ thay đổi: Khi nền nhiệt thay đổi đột ngột, không khí lạnh đi vào phổi. Điều này có thể tạo ra tiếng nấc."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "2. Chữa trị nấc cụt ở trẻ sơ sinh",
+                    "content": "Đa số nấc ở trẻ em là hiện tượng sinh lý bình thường, không cần điều trị gì. Chỉ khi trẻ nấc nhiều kéo dài và mạnh khiến trẻ mệt, nôn trớ và quấy. Mẹ nên đưa bé đến các cơ sở y tế chuyên khoa gần nhất.\n*  Cho bé bú sữa: Ở những trẻ trong 6 tháng đầu ngoài sữa không nên cho bé uống thêm bất kỳ nước nào khác. Trong thời gian này, bé bị nấc nên cho bé bú sữa. Đối với trẻ ăn dặm, bạn có thể từ từ cho trẻ uống nước. Đây là một cách chữa nấc hiệu quả ở trẻ sơ sinh.\n*  Dùng tay bịt lỗ tai hoặc hai cánh mũi của bé: Bạn có thể dùng hai ngón tay bịt hai bên lỗ tai của bé trong khoảng nửa phút. Sau đó bạn thả tay và khép ha cánh mũi song song với việc bịt miệng trẻ. Bạn thực hiện động tác này từ 10 đến 15 lần. Cách này làm cho cơ hoành bị căng cứng nên không bị co lại giúp làm ngừng cơn nấc.\n*  Khóc: Khóc làm giãn thần kinh thực quản và cắt được các kích thích lên cơ hoành.\n*  Vỗ lưng: Bé có thể nằm hoặc được bế dựa người. Mẹ dùng bàn tay chụm lại vỗ nhẹ và đặt áo khoác lên lưng trẻ. Cách này giúp bé tránh được trào ngược dày và giúp bé ợ hơi thoát ra ngoài.\n*  Ăn đường: Cũng như người lớn, các hạt đường khi vào đường hầu họng sẽ kích thích niêm mạc dạ dày. Tuy nhiên cách này thường chỉ áp dụng cho trẻ lớn, không được dùng cho trẻ nhũ nhi.\n*  Mật ong: Chỉ cần một vài giọt mật ong cũng giúp cho bé hết nấc. Chú ý khi sử dụng vì trẻ sơ sinh và trẻ dưới 1 tuổi thường hay bị dị ứng với mật ong.\n*  Thay đổi tư thế bú của bé: Khi trẻ bị nấc nhiều sau bú bình, bạn nên thay đổi tư thế của trẻ để tránh không khí vào.\nau khi đã áp dụng những cách trên mà con vẫn chưa hết nấc kèm theo đó có những triệu chứng bất bình khác thì nên đến các cơ sở y tế gần nhất để khám và điều trị.\nGiai đoạn từ 0-6 tháng trẻ hay mắc hiện tượng nấc cụt, cha mẹ cần theo dõi biểu hiện và thực hiện sơ cấp cứu cho trẻ như hướng dẫn trong bài viết, nếu dấu hiệu không thuyên giảm cần đưa trẻ đến cơ sở y tế gần nhất để được chữa trị kịp thời."
+                }
+            ]
+        }
+    ]
+}

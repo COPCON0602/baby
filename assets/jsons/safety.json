@@ -1,0 +1,275 @@
+{
+    "name": "An toàn cho bé",
+    "title": "Những lưu ý để đảm bảo an toàn cho bé và cách xử lý khi gặp phải tình huống xấu",
+    "safetyData": [
+        {
+            "id": 1,
+            "name": "Ngộ độc thức ăn",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Xử lý khi trẻ bị ngộ độc"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "1. Cho trẻ ói độc tố ra, nhớ là nằm nghiêng",
+                    "content": "Triệu chứng thường gặp của ngộ độc thực phẩm là buồn nôn, nôn, tiêu chảy, phân có máu, đau bụng, sốt… Trong trường hợp tiêu chảy nặng hoặc ói nhiều có thể gây mất nước, người bệnh cần được bù đủ nước qua đường uống và truyền dịch.\nNgười bệnh nôn ói, tiêu chảy nhiều cần được bù nước bị mất qua đường uống. Khi bù, nên dùng dung dịch điện giải như oresol. Nhưng cần nhớ nguyên tắc, pha oresol theo đúng hướng dẫn, uống từ từ, ít một, không uống quá nhiều cùng một lúc. Nhiều trường hợp thấy con đi ngoài quá nhiều, lo sợ con mất nước, bố mẹ pha cốc oresol 200ml bắt con uống bằng hết khiến bé lại nôn vọt ra ngoài, không thể bù đắp nổi tình trạng thiếu nước.\nĐặc biệt, phụ huynh cần lưu ý cần đưa trẻ đến cơ sở y tế ngay nếu có các biểu hiện nôn ói, tiêu chảy nhiều và kéo dài, ói ra máu, tiêu phân máu, tiêu chảy hơn 3 ngày kèm các dấu hiệu đau bụng dữ dội, sốt… Các triệu chứng mất nước khát nhiều, miệng khô, tiểu ít hoặc không có nước tiểu, yếu mệt nặng, chóng mặt… Các triệu chứng thần kinh như mờ mắt, yếu cơ, cảm giác kiến bò ở tay."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "2. Truyền dịch bù nước",
+                    "content": "Triệu chứng thường gặp của ngộ độc thực phẩm là buồn nôn, nôn, tiêu chảy, phân có máu, đau bụng, sốt… Trong trường hợp tiêu chảy nặng hoặc ói nhiều có thể gây mất nước, người bệnh cần được bù đủ nước qua đường uống và truyền dịch.\nNgười bệnh nôn ói, tiêu chảy nhiều cần được bù nước bị mất qua đường uống. Khi bù, nên dùng dung dịch điện giải như oresol. Nhưng cần nhớ nguyên tắc, pha oresol theo đúng hướng dẫn, uống từ từ, ít một, không uống quá nhiều cùng một lúc. Nhiều trường hợp thấy con đi ngoài quá nhiều, lo sợ con mất nước, bố mẹ pha cốc oresol 200ml bắt con uống bằng hết khiến bé lại nôn vọt ra ngoài, không thể bù đắp nổi tình trạng thiếu nước.\nĐặc biệt, phụ huynh cần lưu ý cần đưa trẻ đến cơ sở y tế ngay nếu có các biểu hiện nôn ói, tiêu chảy nhiều và kéo dài, ói ra máu, tiêu phân máu, tiêu chảy hơn 3 ngày kèm các dấu hiệu đau bụng dữ dội, sốt… Các triệu chứng mất nước khát nhiều, miệng khô, tiểu ít hoặc không có nước tiểu, yếu mệt nặng, chóng mặt… Các triệu chứng thần kinh như mờ mắt, yếu cơ, cảm giác kiến bò ở tay.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F1.1.jpg?alt=media&token=f7f1536c-0f76-44c4-b4e8-bbcb3922a37a"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Uống nhầm thuốc",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Nguyên nhân khiến trẻ uống nhầm thuốc",
+                    "content": "Việc ngộ độc do uống nhầm thuốc tây là hiện tượng phổ biến bởi có nhiều loại thuốc có những màu sắc bắt mắt khiến trẻ em tưởng nhầm là kẹo. Ngoài ra cũng hay gặp trường hợp trẻ uống nhầm thuốc trừ sâu, thuốc diệt cỏ…\nNguyên nhân trẻ bị ngộ độc thuốc chủ yếu do sự thiếu kiến thức và vô ý của người lớn. Nếu uống với hàm lượng thuốc rất cao có thể dẫn đến ngộ độc thuốc, dị ứng thuốc hay có những tác dụng phụ của thuốc như chóng mặt, buồn nôn, đau bụng… thậm chí nếu không được cấp cứu kịp thời có thể nguy hiểm tính mạng.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F2.1.jpg?alt=media&token=60e6adcd-285c-408e-b8ce-cdfeacb6218f"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Xử lý khi phát hiện uống nhầm thuốc tây",
+                    "content": "Việc đầu tiên khi bắt gặp người uống nhầm thuốc là cần phải bình tĩnh, tránh hoảng loạn để xử lý được chính xác. Cần tìm hiểu xem người bệnh đã uống nhầm loại gì, với lượng bao nhiêu vì mỗi loại thuốc, hóa chất sẽ có những biểu hiện lâm sàng và cách xử trí khác nhau.\nBất kể là ăn hay uống nhầm loại thuốc tây nào, việc cần làm là ngăn chặn việc hấp thụ thuốc bằng cách móc họng gây nôn để nôn một phần số thuốc đã uống vào ra ngoài. Đồng thời cho trẻ uống nhiều nước ấm nhằm làm sạch dạ dày, giải độc ra khỏi cơ thể, giảm bớt sự hấp tác hại của thuốc hay hóa chất. Trong trường hợp bé hôn mê, co giật thì không nên gây nôn.\nViệc sơ cứu ban đầu này rất quan trọng vì quãng đường từ nhà đến bệnh viện phải mất một thời gian, nếu để lâu sẽ càng gây tác hại. Bởi vậy, sau sơ cứu ban đầu cần nhanh chóng đưa nạn nhân tới bệnh viện ngay để được các bác sĩ tiếp tục cấp cứu, giải độc. Mang theo vỏ loại thuốc hoặc chai hóa chất mà người bệnh đã uống nhầm để các bác sĩ có hướng xử lý kịp thời và chính xác."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Phòng tránh trẻ uống nhầm thuốc",
+                    "content": "*  Để thuốc trên cao và ngoài tầm với của bé. Hãy cất thuốc trong tủ thuốc và khóa một cách cẩn thận.\n*  Không bao giờ được để thuốc trên bàn nhất là khi bạn vừa uống xong thuốc.\n*  Tốt nhất là không uống thuốc trước mặt bé vì trẻ con rất thích bắt chước.\n*  Đóng nắp an toàn với bất kỳ một loại thuốc nào mà bạn vừa sử dụng.\n*  Bất cứ loại thuốc nào bạn không sử dụng hoặc đã hết hạn cần vứt bỏ không nên để cho trẻ chơi."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Say nắng",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Vào mùa hè, các hoạt động ngoài trời rất thu hút trẻ. Thời tiết nắng nóng dễ khiến trẻ bị say nắng, say nóng, có thể gây tử vong nếu không được cấp cứu kịp thời.\nSay nắng, say nóng là phản ứng của cơ thể khi học tập, luyện tập thể lực hay làm việc trong môi trường nóng bức, nhiệt độ cao, thường gặp ở trẻ em, người già và những người hoạt động ngoài trời.\nKhi bị nắng nóng, cơ thể sẽ có các phản ứng để giảm nhiệt độ như: giãn nở mạch máu để máu dồn nhiều tới da làm thoát nhiệt ra ngoài; tuyến mồ hôi hoạt động mạnh, tiết ra nhiều mồ hôi, mồ hôi bay hơi để hạ nhiệt cho cơ thể. Cơ thể có khả năng điều hòa thân nhiệt ở một giới hạn nhất định để thích ứng với môi trường xung quanh. Khả năng này ở mỗi người khác nhau, người trưởng thành khỏe mạnh có sức chịu đựng tốt nhất, trái lại người cao tuổi và trẻ em sức chịu đựng kém hơn nhiều và dễ gặp nguy hiểm khi nhiễm nắng nóng.\nKhi bị nắng nóng, vượt quá sức chịu đựng của cơ thể, bé có thể bị các bệnh như sau:"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Say nóng, say nắng",
+                    "content": "Trẻ bị say nắng, say nóng có những triệu chứng sau:\n*  Da nóng, ửng đỏ.\n*  Sốt cao trên 40 độ C.\n*  Không có mồ hôi.\n*  Lơ mơ.\n*  Co giật, động kinh.\n*  Sốc.\nSốt cao có thể đe dọa đến tính mạng trẻ, do vậy cần xử trí nhanh như sau.\n*  Gọi bác sĩ hay xe cấp cứu ngay lập tức.\n*  Làm mát cho bé càng nhanh càng tốt. Đem bé đến chỗ mát. Lau mát cho bé bằng nước mát hoặc nước lạnh và quạt cho bé. Cần lưu ý là trong các trường hợp này, uống thuốc hạ sốt như Ibuprofen hoặc acetaminophen cũng không làm trẻ hạ sốt.\n*  Nếu bé hôn mê, nhúng bé vào nước lạnh có thể cứu sống bé.\n*  Nếu bé còn tỉnh, cho bé uống một ly nước lạnh, uống mỗi 15 phút cho đến khi bé cảm thấy đỡ hơn."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Mệt lả do nóng",
+                    "content": "Trẻ bị mệt lả do nóng có những triệu chứng sau:\n*  Da lạnh, nhợt nhạt.\n*  Không sốt (nhiệt độ dưới 37,8 độ C).\n*  Ra mồ hôi.\n*  Hoa mắt.\n*  Ngất.\n*  Yếu mệt.\nSơ cứu:\n*  Gọi bác sĩ ngay lập tức.\n*  Đặt trẻ nằm ở nơi mát, chân nâng cao.\n*  Cho trẻ uống một ly nước lạnh mỗi 15 phút cho đến khi trẻ cảm thấy đỡ hơn.\n*  au khi cho trẻ uống 2-3 ly nước, mang bé đến cơ sở y tế để bác sĩ đánh giá tình trạng mất nước của bé và điều trị bù nước thích hợp.\n*  Vẫn tiếp tục cho bé uống nước trên đường chở bé đến cơ sở y tế.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F3.1.jpg?alt=media&token=cf10552d-09ef-4642-9c98-cc2b8a1c77b9"
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Vọp bẻ (chuột rút) do nóng",
+                    "content": "Trẻ bị vọp bẻ do nóng có những triệu chứng sau:\n*  Vọp bẻ nặng ở chân, tay, bụng.\n*  Không sốt.\nCách chăm sóc tại nhà:\n*  Vọp bẻ do nóng là phản ứng thường gặp nhất khi ở trong môi trường quá nóng bức. Tình trạng này không nguy hiểm nên có thể chăm sóc tại nhà, không cần đưa trẻ đến cơ sở y tế.\n*  Cho trẻ uống một ly nước lạnh mỗi 15 phút cho đến khi trẻ cảm thấy đỡ hơn.\n*  Có thể cho bé ăn thức ăn chứa muối như khoai tây chiên, bánh quy."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Phòng ngừa các bệnh do nóng",
+                    "content": "\n*  Khi cần phải cho trẻ tập luyện ngoài trời nắng thì trước đó vài ngày nên có thời gian cho trẻ ra nắng để cơ thể trẻ quen dần với tác động của nắng nóng. Tuy nhiên vào ngày nắng nóng gay gắt, không nên cho trẻ ra ngoài trong khoảng thời gian 10-15h.\n*  Cho trẻ uống thêm nhiều nước khi học và luyện tập trong môi trường nóng bức.\n*  Cho trẻ mặc quần áo nhẹ, màu sáng, đội nón rộng vành sẽ giúp trẻ bớt nóng.\n*  Tránh cho trẻ tập luyện quá sức ở ngoài trời nắng. Nếu trẻ cảm thấy khó chịu, cho trẻ ngừng ngay việc tập luyện và vào chỗ có bóng mát nghỉ ngơi.\n*  Ăn nhiều rau xanh, trái cây: các loại rau quả như bí đao, mướp đắng, dưa chuột, bí đỏ, cà chua, xà lách, nước dừa, dưa hấu… vừa giúp bổ sung lượng nước cho cơ thể, lại có tác dụng giải nhiệt, chống say nắng hiệu quả.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F3.2.jpg?alt=media&token=1ff83fc4-ca12-435f-b7b9-83a7c588d7b0"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Dị vật rơi vào mắt",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Cách xử lý giúp lấy dị vật trong mắt trẻ",
+                    "content": "Đối với những tổn thương ở mắt trẻ nhỏ, cha mẹ cần nắm vững cách sơ cứu cơ bản cũng như cách lấy dị vật trong mắt trẻ ra trước khi đưa trẻ đến bệnh viện như sau:"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Trường hợp trẻ tổn thương mắt do té ngã",
+                    "content": "Nếu mắt trẻ bị tổn thương mắt do té ngã, sưng tím quanh vùng mắt cha mẹ có thể áp nước đá để giúp tan máu bầm trên mắt trẻ. Cần sử dụng nước đá sạch và khăn sạch khi thực hiện sơ cứu.\nSau khi trẻ đã bớt đau, cha mẹ nên đưa trẻ đến bệnh viện để bác sĩ thăm khám, kiểm tra những tổn thương bên trong mắt. Nếu được chẩn đoán an toàn thì cha mẹ có thể đưa bé về nhà nhưng cũng cần phải nghe theo những chỉ định tiếp theo của bác sĩ (nếu có)."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Trường hợp có vật lạ rơi vào mắt trẻ",
+                    "content": "Đây là trường hợp tương đối nguy hiểm, bởi trẻ nhỏ thường không biết cách tự điều tiết mắt để đẩy vật lạ ra ngoài và lúc này bé đang cần đến sự trợ giúp từ người lớn. Do đó, cha mẹ cần học được cách xử lý để lấy dị vật trong mắt trẻ bằng các cách xử lý dưới đây:\n*  Tuyệt đối không để trẻ dùng tay dụi mắt.\n*  Cha mẹ có thể dùng ngón tay cái và ngón tay trỏ mở to 2 mí mắt của trẻ. Dạy trẻ cách đảo mắt sang trái – phải – lên – xuống, để mắt chuyển động, từ đó có thể tìm ra vật lạ. Nếu thấy vật lạ nằm ở lòng trắng mắt thì có thể dùng 1 góc khăn sạch nhẹ nhàng khều ra.\n*  Nếu không thể lấy vật lạ ra được, cha mẹ lấy một chậu nước lạnh to, sạch, sau đó kéo căng mắt trẻ và áp vào trong nước, bảo trẻ chớp mắt với những trẻ lớn. Với trẻ nhỏ cha mẹ có thể sử dụng nước muối sinh lý nhỏ vào mắt bé để kích tuyến lệ chảy nước giúp dị vật rơi ra ngoài\n*  Trong trường hợp đã áp dụng các cách trên nhưng vẫn không thể lấy dị vật trong mắt trẻ ra được hãy đưa bé đến gặp bác sĩ để có biện pháp xử lý hiệu quả.\nLưu ý:  Cha mẹ không được tự ý dùng tay lấy vật lạ trong mắt trẻ ra vì có thể sẽ gây tổn thương nghiêm trọng đến mắt của trẻ."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Trường hợp hóa chất dính vào mắt trẻ",
+                    "content": "Nếu trẻ bị các loại hóa chất, dung dịch tẩy rửa dính vào mắt, cha mẹ cần phải ngay lập tức rửa sạch mắt cho bé. Sau khi rửa xong dùng khăn khô lau sạch và chuyển ngay trẻ đến các cơ sở y tế gần nhất để được sơ cứu đúng cách.\nTuyệt đối không nghe theo các kinh nghiệm dân gian bằng cách dùng xà phòng, nước rửa chén... để ‘đối kháng’ lại với hóa chất bị dính vào mắt. Vì việc này vô cùng nguy hiểm có thể ảnh hưởng đến giác mạc, kết mạc mắt, thậm chí gây mù lòa."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ngạt thở",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Ngạt thở do sặc thức ăn, nuốt phải dị vật hoặc bị chăn gối đè là một trong những nguyên nhân hàng đầu gây tử vong ở trẻ nhỏ. Xử lý đúng cách trong những phút đầu tiên ngay sau khi bé bị sặc là điều vô cùng quan trọng, giúp trẻ nhanh chóng thoát khỏi tình trạng nguy hiểm.",
+                    "content": ""
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "",
+                    "content": "Nếu bé bị ngạt thở mà ở nhà chỉ có một người cùng bé thì việc đầu tiên là tiến hành cấp cứu 2 phút, sau đó gọi điện cho 115. Trước khi nhân viên y tế đến hãy làm theo các cách sau để cấp cứu cho bé:\n1. Đặt bé nằm ngửa, dùng ngón tay cái đặt dưới lợi bé, bốn ngón còn lại nhấc cao cằm bé, mở rộng khoang miệng, xem có dị vật chui vào không. Nếu có dị vật, cần tiến hành các bước lấy dị vật ra ngoài (tham khảo các cách lấy dị vật ở bài viết \"Nuốt phải dị vật\"). Nếu không có dị vật, khẩn trương tiến hành hô hấp nhân tạo.\n2. Ngửa đầu bé ra sau 30 độ, dùng miệng người cấp cứu đặt lên miệng bé, bàn tay bóp chặt mũi bé, sau đó hít thở thật sâu rồi thổi vào khoang miệng bé. Sau khi thổi được hai hơi, bỏ tay ở mũi bé ra, để ngực bé tiết ra khí. Lặp lại động tác, mỗi phút làm 12-20 lần. Chú ý lực không được quá mạnh, hà hơi thổi ngạt không quá nhiều để tránh làm tăng áp lực khoang ngực. Người cấp cứu cần quan sát, nếu thấy ngực bé không phồng lên chứng tỏ họng bé có dị vật, phải lấy dị vật ra.\n3. Nếu đã thử các cách trên mà khả năng hô hấp của bé vẫn không hồi phục, hãy dùng 3 ngón tay chụm vào nhau, ấn vào xung quanh 2 đầu ti bé, ấn lõm xuống 1,2-1,5cm, gây áp lực lên tim của bé. Trước khi đội ngũ cấp cứu đến, cần cấp cứu không ngừng cho bé.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F5.1.jpg?alt=media&token=f018eedb-2b05-4662-be0b-405e393bc33b"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Bị thương ngoài da",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Khi trẻ bị trầy xước ngoài da",
+                    "content": "*  Khi trẻ bị trầy xước ngoài da, mẹ cần rửa sạch vết thương với xà phòng và nước ấm. Mẹ không nên bôi các loại nước khử trùng khác vì chúng vừa chứa ít chất sát khuẩn, vừa có thể làm bé đau.\n*  Nếu vết thương có diện tích lớn hay rỉ máu, mẹ cần bôi thuốc mỡ có chứa kháng sinh. Sau đó, dùng gạc vô trùng băng lại."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Những điều mẹ cần lưu ý khi sử dụng băng gạc:",
+                    "content": "*  Không nên băng quá chặt ở những vùng như ngón tay hay ngón chân của trẻ vì sẽ ảnh hưởng đến sự lưu thông máu.\n*  Nên kiểm tra vết thương hàng ngày khi thay băng.\n*  Nếu băng gạc dính quá chặt và khó tháo gỡ, mẹ hãy ngâm nước ấm rồi gỡ sau để tránh làm rách vết thương.\n*  Nên kiểm tra vết thương hàng ngày khi thay băng.\n*  Nếu băng gạc dính quá chặt và khó tháo gỡ, mẹ hãy ngâm nước ấm rồi gỡ sau để tránh làm rách vết thương.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F6.1.jpg?alt=media&token=21cb645c-7434-4073-bc8d-92ad28ceb483"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Khi trẻ bị thương bằng những vết cắt, vết rách rỉ máu",
+                    "content": "*  Trong trường hợp này, bố mẹ cần bình tĩnh để vừa trấn an con, giúp bé đỡ sợ hơn, vừa để làm tốt các bước sơ cứu cho bé.\n*  Những vết cắt này nghiêm trọng hơn vết trầy xước rất nhiều. Chúng không chỉ là tổn thương ngoài da, mà còn ảnh hưởng đến các mô dưới da làm cho bé chảy máu."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Cách sơ cứu như sau:",
+                    "content": "*  Mẹ dùng gạc hoặc khăn sạch đè lên vết thương khoảng từ 5 – 10 phút. Tránh mở ra sớm để quan sát vết thương.\n*  Nếu sau 5 phút giữ chặt vết thương mà máu vẫn chảy, mẹ cần mang bé đến cơ sở y tế gần nhất.\n*  Nếu vết thương nhỏ, có thể tự liền mép, mẹ có thể tự làm sạch và băng vết thương cho bé tại nhà.\n*  Hãy sử dụng nước sạch để rửa vết thương cho bé. Tránh sử dụng cồn hay oxi già vì sẽ khiến vết thương lâu lành và có thể làm đau bé."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Vết thương do gai đâm",
+                    "content": "Nếu bé bị thương do gai đâm vào, khi xử lý cần tỉ mỉ quan sát xem gai còn nằm dưới da không. Nếu còn thì cần được kịp thời nhổ ra vì xử lý không hết sẽ gây viêm nhiễm, mưng mủ.\n*  HKhi xác định còn gai, nên ngâm chỗ vết thương trong nước ấm khoảng 10 phút hoặc dùng khăn ấm chườm lên, khi gai nhô ra hãy dùng kẹp để gắp.\n*  HNếu gai vẫn nằm trong da thịt, cần ngâm nước lâu hơn và dùng kim khử trùng gợi ra. Nếu đã thử cách trên mà vẫn ko nhổ ra được, cần đưa bé đến bệnh viện xử lí."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "Phòng ngừa rủi ro, thuốc đắt tiền",
+                    "content": "Mẹ có thể hạn chế tối đa việc bị thương và làm giảm mức độ nghiêm trọng của chúng bằng những cách như sau:\n*  HGiữ những vật nguy hiểm, sắc nhọn và dễ gây thương tích tránh xa tầm tay bé.\n*  HThường xuyên kiểm tra độ an toàn của nhà ở, sân vườn…\n*  HMẹ nên chuẩn bị sẵn một số dụng cụ sơ cứu trong nhà để kịp thời sơ cứu khi bé bị thương.\nKhi bé khóc hay có những phản ứng thái quá về vết thương, bên cạnh việc lau rửa, mẹ hãy nhẹ nhàng hôn lên vết sưng hoặc vết bầm nhỏ của bé. Điều này sẽ làm bé cảm thấy dễ chịu hơn rất nhiều. "
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bị bỏng",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Nguyên nhân phổ biến gây bỏng ở trẻ em",
+                    "content": "Phần lớn các nguyên nhân khiến trẻ bị bỏng thường là do:\n*  Bỏng do nước sôi từ thức ăn nóng, dầu sôi, nước trong bình thủy, canh sôi...\n*  Bỏng do trẻ tiếp xúc với các đồ vật nóng hoặc vật có tính phát nhiệt cao như bếp than, lò sưởi, bàn ủi...\n*  Bỏng do tiếp xúc với nguồn điện hoặc đứng quá lâu dưới ánh nắng mặt trời gay gắt.\n*  Trẻ cũng có thể bị bỏng do các loại hóa chất như chất tẩy rửa, pin đồng hồ, keo dán sắt..."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Xử lý khi trẻ bị bỏng",
+                    "content": "Nhiều người khi thấy trẻ bị bỏng liền áp dụng ngay các cách dân gian như: bôi kem đánh răng, dội nước mắm, đắp các loại lá cây lên vết thương... Tuy nhiên, tất cả các phương pháp trên đều phản khoa học.\nCách đơn giản và hiệu quả nhất giúp làm giảm nhiệt độ nhanh và rửa trôi đi những chất bẩn tại vùng bỏng của trẻ chính là dội nhẹ nhàng nước lạnh sạch lên vết bỏng trong vòng khoảng từ 15 - 20 phút.\nViệc dùng nước sạch dội hoặc ngâm vùng bỏng của trẻ sẽ giúp hạ nhiệt nhanh, giảm đau giảm phù nề, viêm nhiễm, đồng thời cũng sẽ giúp làm giảm độ sâu của của vết thương.\nLưu ý: Không lấy nước đá đắp trực tiếp vào vết thương vì có thể gây tổn thương da của trẻ.\nĐồng thời với việc dội hoặc ngâm nước lạnh thì cần phải cởi bỏ quần áo có tiếp xúc với chỗ bị bỏng. Trong trường hợp quần áo dính vào chỗ vết thường, đừng cố gắng kéo ra vì có thể gây tổn thương da nhiều hơn.\nSau khi làm dịu vết bỏng của trẻ, cha mẹ có thể giúp trẻ giảm đau bằng cách cho trẻ uống thuốc giảm đau (có thể dùng thuốc gốc paracetamol với liều dùng 10 -15mg/kg). Cuối cùng là đánh giá độ nông sâu của vết thương để tiến hành sơ cứu hoặc chăm sóc phù hợp.\nPhân loại độ sâu vết bỏng ở trẻ em"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Bỏng độ 1",
+                    "content": "Dấu hiệu nhận biết: Da đỏ ửng, đau và sưng nhẹ. Da vẫn khô và chưa bị phồng rộp\nTrẻ bị bỏng độ 1 có thể chăm sóc tại nhà trong vòng 3 – 5 ngày và thường sẽ không để sẹo. Cha mẹ có thể sử dụng kem lô hội (aloe vera) để bôi lên vết bỏng vài lần một ngày."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Bỏng độ 2",
+                    "content": "Dấu hiệu nhận biết: Vết bỏng khiến da bị tấy đỏ, rát và vô cùng đau nhức, xuất hiện vết phồng rộp có chứa dịch bên trong nhưng không vỡ.\nCha mẹ tuyệt đối không nên chọc thủng bọng nước, vì có thể tạo điều kiện cho vi khuẩn bên ngoài xâm nhập vào gây viêm nhiễm.\nSau khi tiến hành điều trị, thời gian hồi phục ở mỗi bé khác nhau và phụ thuộc vào mức độ của vết bỏng, thông thường là 3 tuần trở lên.\nThông thường các trường hợp bỏng độ 2, cha mẹ có thể đưa trẻ đến bệnh viện hoặc chăm sóc tại nhà. Nếu chăm sóc tại nhà, cha mẹ nên bôi các loại kem có gốc bạc (kem silver, Silvirin, Silvadene) lên vết bỏng để ngừa nhiễm khuẩn.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F7.1.jpg?alt=media&token=a189c047-48a9-4896-ab7f-0c51d19bba00"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Bỏng độ 3",
+                    "content": "Dấu hiệu nhận biết: Bề mặt da khô và tróc, có thể nhìn thấy vùng lõm sâu bên trong, thậm chí lồi cả thịt và xương. Đây là vết bỏng nặng nhất gây đau đớn cho nạn nhân.\nKhi trẻ bị bỏng độ 3, bắt buộc phải được cấp cứu ở bệnh viện. Do đó, sau khi làm mát bằng cách dội nước lạnh, cho uống thuốc giảm đau thì cha mẹ cần đưa trẻ đến bệnh viện càng sớm càng tốt. Tại đây, các sĩ sẽ có những hướng điều trị phù hợp và an toàn cho bé."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "Cách phòng ngừa tai nạn bỏng ở trẻ em",
+                    "content": "Phần lớn các trường hợp bỏng thường xảy ra tại nhà, khu vực bếp, do đó, cha mẹ cần có những biện pháp để giúp làm giảm thiểu nguy cơ trẻ bị bỏng như:\n*  Để bật lửa, các loại hóa chất, keo dán sắt… xa tầm tay trẻ em.\n*  Tất cả các thiết bị, đồ dùng điện tử nên để ở những ở nơi an toàn cho trẻ.\n*  Cần kiểm tra thường xuyên đường dây điện, bỏ những dây điện, tay cầm, phích cắm bị cũ hoặc bị hỏng…\n*  Không cho trẻ nhỏ đến gần khu vực bếp.\n*  Với trẻ nhỏ dưới 6 tháng tuổi, không nên mang bé ra ngoài trời nắng quá lâu.\n*  Bảo quản, cất giữ các chất tẩy rửa an toàn trên cao\nNgoài ra, mỗi gia đình nên trang bị một tủ thuốc y tế ở trong nhà với đầy đủ các loại thuốc thông dụng để đề phòng những trường hợp đột xuất có thể mang ra dùng ngay."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Nuốt phải dị vật",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Trẻ nhỏ khám phá thế giới bằng mọi giác quan, kể cả miệng. Do vậy, trẻ rất dễ nuốt phải những vật như đồng xu, hòn bi, kim băng, viên thuốc, cúc áo, mảnh đồ chơi và hạt quả...\nBố mẹ cần chú ý để những đồ vật nhỏ (khuy áo, các loại hạt, ghim cài, đinh vít,...) tránh xa khỏi phạm vi hoạt động của bé. Ngoài ra, phải cẩn thận khi cho trẻ ăn thạch hay kẹo cứng, không cho bé ăn kẹo cứng khi đang đi xe hoặc lúc bé đang chơi đùa."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Làm thế nào để biết được trẻ đã nuốt phải vật lạ?",
+                    "content": "Khi trẻ nuốt phải vật lạ khá dễ nhận thấy, với những triệu chứng phổ biến xuất hiện ngay lập tức nếu các vật này làm tắc nghẽn đường thở, bao gồm: hóc nghẹn, ho, khó thở, khò khè,...\n Nếu trẻ có thể nuốt được đồ vật đó và nó không bị mắc lại trong cổ họng, thì các triệu chứng có thể sẽ không xuất hiện ngay. Khi đồ vật đã ở trong hệ tiêu hóa, nó sẽ di chuyển theo hệ tiêu hóa một cách tự nhiên (như thức ăn) hoặc sẽ gây ra các triệu chứng sau này, khi cơ thể không thể loại bỏ được các đồ vật này ra ngoài.\n Các triệu chứng có thể xảy ra khi một đồ vật bị mắc lại trong thực quản hoặc trong ruột bao gồm: nôn mửa, chảy nước dãi, nôn khan, đau ngực hoặc đau họng, không ăn uống gì, đau bụng, sốt.\nCác vật nhọn có thể sẽ đâm vào thực quản hoặc ruột. Những viên pin nhỏ, như pin đồng hồ đeo tay, sẽ gây ra các tổn thương mô.\nNếu bạn nghi ngờ con mình đã nuốt phải vật lạ, hãy đưa trẻ đi gặp bác sỹ ngay để chụp X-quang, soi phế quản dò tìm ra vị trí vật lạ. Bạn cũng có thể sẽ phải cung cấp cho bác sỹ danh sách các triệu chứng khiến bạn nghi ngờ là trẻ đã nuốt phải vật lạ.\nNếu nạn nhân không thể thở được do đường thở bị tắc nghẽn, thì sẽ cần phải điều trị cấp cứu. Vật lạ có thể sẽ được loại bỏ ra khỏi đường thở bằng việc thổi ngạt…\nNếu nạn nhân không hóc phải vật lạ mà có thể đã nuốt được vật đó, bác sỹ có thể sẽ quyết định là nên đợi xem cơ thể có thể tự loại bỏ vật đó một cách bình thường không. Bạn cần theo dõi các triệu chứng, như nôn mửa, sốt hoặc đau, đồng thời cũng nên theo dõi phân để xem xem liệu vật đó đã được loại bỏ ra ngoài hay chưa.\nBác sỹ sẽ điều trị ngay lập tức nếu vật lạ gây ra đau đớn hoặc gây tổn thương thực quản hoặc ruột. Khi này có thể sẽ cần phải phẫu thuật mở hoặc mổ nội soi để loại bỏ vật lạ ra ngoài mà không gây tổn thương ruột hoặc thực quản.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F8.1.jpg?alt=media&token=472988af-1a6d-44d3-87a7-3859e35de669"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Cần xử lý thật nhanh khi trẻ có dấu hiệu sặc",
+                    "content": "Khi thấy con hóc, việc người lớn hay làm đầu tiên là đưa tay vào cổ họng trẻ móc dị vật ra dù có nhìn hay không nhìn thấy dị vật. Điều này vô tình sẽ kích thích phản xạ co thắt thanh quản, phản xạ ho đẩy dị vật lên thanh quản gây tắc nghẽn đường thở hoàn toàn và có thể làm trẻ tử vong nhanh chóng.\n Khi thấy trẻ có dấu hiệu bị sặc, cha mẹ cần xử lý thật nhanh."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "",
+                    "content": "Đầu tiên, hãy đặt bé nằm úp trên đùi mình. Một tay giữ bé, một tay vỗ mạnh vào lưng bé từ 1-5 cái. Điều này sẽ khiến áp lực trong lồng ngực bé tăng lên, giúp đẩy dị vật trong cổ họng bé ra ngoài.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F8.2.jpg?alt=media&token=67ab47cc-4149-4389-a64f-b87b1f18adbb"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "",
+                    "content": "Nếu bé dưới 1 tuổi, có thể trực tiếp cầm hai chân con hướng xuống đất, nắm tay rỗng vỗ vào lưng để dị vật bắn ra ngoài.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F8.3.jpg?alt=media&token=64b55921-8f4f-457e-9e62-e995ceb256ca"
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "",
+                    "content": "Nếu bé trên 3 tuổi, có thể tự đứng vững, hãy đứng phía sau lưng con, vòng hai tay ra trước ôm lấy ngực bé. Tay phải nắm lại, tay trái nắm lấy tay phải, hai ngón tay cái chạm vào dạ dày bé, ấn mạnh, nhanh để dị vật bắn ra ngoài.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F8.4.jpg?alt=media&token=de03bb83-018f-4888-9d2d-1319f22bab73"
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "",
+                    "content": "Khi dị vật chui ra, cần hô hấp nhân tạo cho bé, để bé khôi phục lại tình trạng hít thở bình thường. Cuối cùng, sau khi sơ cứu ban đầu để bắn dị vật ra ngoài, bố mẹ cần đưa bé nhập viện ngay lập tức."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bị thương bởi các con vật nuôi trong nhà",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Nếu trong nhà có nuôi các loại thú như mèo, chó,... khi bé đã đến tuổi tập bò, tốt nhất gia đình nên gửi hoặc bán các con thú đó đi. Vì trên người các con vật tiềm ẩn rất nhiều vi khuẩn và bệnh tật, khi bé tiếp xúc lâu sẽ dễ bị lây nhiễm. Trong trường hợp không thể gửi hoặc bán sang nhà khác, hãy cách ly bé với các con vật nuôi.\nNếu bố mẹ muốn con làm quen với các loài động vật, nên chọn những loài vật vô hại (gà con), nuôi chó con thì nên chọn những giống tính thuần, hiền lành. Cũng phải đảm bảo những con vật này đều ở trạng thái sức khỏe tốt, là chó mèo thì đã được tiêm phòng đầy đủ. Khi bé lớn hơn một chút, bố mẹ có thể dạy bé nên đối xử với các con vật dịu dàng, vừa bồi dưỡng tình cảm, nhân cách cho bé, vừa tránh cho bé bị thương.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F9.1.jpg?alt=media&token=196a5a25-0f48-4f59-a0ee-987db1eb49dd"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "",
+                    "content": "Trường hợp bé bị chó mèo cắn, cần đưa bé đến bệnh viện kiểm tra ngay vì chó mèo đều có thể mắc bệnh dại. Nếu phát hiện vết cắn sưng đỏ, cho dù không xước da, chảy máu thì trong 24h cũng phải cho trẻ tiêm vacxin phòng bệnh dại, vì bệnh dại một khi vào hệ tuần hoàn sẽ đe dọa nghiêm trọng đến sức khỏe, thậm chí là tính mạng của trẻ.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F9.2.jpg?alt=media&token=30f70351-b4bf-492b-bd53-c9ca321b937b"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ngã ",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Khả năng phối hợp cơ thể của bé còn kém, bé lại chưa ý thức được sự nguy hiểm nên bé rất dễ bị ngã. Nhưng chỉ cần cha mẹ chú ý cẩn thận trông nom sẽ giảm được tối đa số lần ngã của bé. Khi bé biết lẫy, không để bé một mình ở ghế hoặc giường không có thành bảo vệ. Khi bố mẹ muốn làm việc gì, phải đặt bé trong cũi để bé được an toàn. Khi bé tập bò, đứng, đi thì nguy cơ bị ngã lại càng cao. Bố mẹ nên để bé di chuyển trong phạm vi nhỏ, có lót thảm mềm, tránh bé bị thương nặng.\n Nếu trẻ bị ngã, đa số là bị đập ở đầu. Khi bé bị ngã đập đầu trước tiên bạn hãy tìm cách xoa dịu bé, cố gắng không phản ứng quá mức nếu cú ngã hay va chạm nhẹ, không gây tổn thương nghiêm trọng khiến bé hoảng sợ. Sau khi ngã nếu bé chỉ khóc vài tiếng rồi ngừng thì không sao. Nhưng nếu trẻ ngã rồi bất tỉnh, nôn ói, có chảy máu ra ở miệng hoặc mũi, tay chân co giật bất thường, bạn cần đưa đến cơ quan y tế gần nhất ngay.\nTrong vòng 48 tiếng từ khi bị ngã, nếu bé có hiện tượng nôn trớ, tinh thần mệt mỏi, buồn ngủ, ăn uống kém hoặc ngủ mê man, rất có thể bé đã bị chấn thương não, cần lập tức đưa đến bệnh viện khám chữa.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/safety%2F10.1.jpg?alt=media&token=69445f31-b1d9-4c35-ae0b-e90a5c7c8583"
+                }
+            ]
+        }
+    ]
+}

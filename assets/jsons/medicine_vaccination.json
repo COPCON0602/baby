@@ -1,0 +1,251 @@
+{
+    "name": "Thuốc và tiêm phòng cho bé",
+    "title": "Những điều cần biết về sử dụng thuốc và tiêm phòng cho trẻ",
+    "medicineAndVaccinationData": [
+        {
+            "id": 1,
+            "name": "Những điều cần chú ý khi tiêm vắc xin cho trẻ",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Trước khi tiêm chủng",
+                    "content": "Bố mẹ cần tránh cho trẻ ăn hoặc bú quá no, tuy nhiên cũng không nên vì vậy mà để trẻ đói  bởi điều này có thể sẽ khiến trẻ bị hạ đường huyết sau khi tiêm.\nVệ sinh thân thể sạch sẽ cho trẻ để hạn chế tình trạng nhiễm trùng. Ngoài ra, mẹ hãy cho trẻ mặc trang phục đơn giản để giúp bác sĩ dễ thao tác hơn trong quá trình tiêm phòng.\nMẹ cần mang theo đầy đủ hồ sơ, giấy tờ của trẻ, đặc biệt là sổ tiêm chủng trước đó.\nTrước khi tiêm, ba mẹ đừng quên trao đổi với bác sĩ tình trạng sức khỏe của trẻ, có bị suy dinh dưỡng, có mắc bệnh cấp tính (như sốt, viêm phổi, viêm phế quản...), tiền sử bệnh tật, dị ứng với thuốc, hóa chất, thức ăn...\nNếu ở những mũi tiêm trước trẻ có dấu hiệu dị ứng, sốt..., mẹ nên báo với bác sĩ để có phương án xử lý kịp thời trong tình huống khẩn cấp.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F1.1.jpg?alt=media&token=63b9db11-e213-4da1-9335-13f9c5556e22"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Sau khi tiêm",
+                    "content": "Sau khi trẻ tiêm chủng xong, mẹ không nên đưa trẻ về ngay mà cần ở lại theo dõi 15-30 phút để đề phòng việc trẻ bị sốc phản vệ.\nNếu trẻ không có bất kỳ phản ứng nào, mẹ có thể đưa con về nhà nhưng vẫn cần theo dõi thêm. Theo dõi xem trẻ có sốt không, biểu hiện bên ngoài da, cử chỉ, quấy khóc, bú mẹ có bình thường không, đi ngoài thế nào. Đặc biệt là với những trẻ tiêm lần đầu khi ở 2 tháng tuổi, tiêm mũi đầu tiên và tiêm vắc xin 5 trong 1.\nỞ những trẻ cơ địa nhạy cảm, vết tiêm có thể bị sưng đỏ, nổi cục cứng nhưng mẹ không cần quá lo lắng, hiện tượng này sẽ tự biến mất sau 6 - 8 tiếng. Lúc này, mẹ cần chườm mát lên vết tiêm của trẻ (không chườm nóng) để giảm đau, cho trẻ uống nhiều nước, bú mẹ nhiều hơn, mặc đồ thoáng.\nSau 24 giờ tiếp theo, mẹ có thể chườm nóng để các vết sưng tấy mau biến mất, giúp da dễ trao đổi với môi trường bên ngoài và nhanh chóng phục hồi.\n Ngoài ra, hiện nay cũng có một số mẹ truyền tai nhau kinh nghiệm xát chanh hoặc đắp một lát khoai tây mỏng vào chỗ tiêm nhằm mục đích giảm đau, sưng tấy cho trẻ. Tuy nhiên, cách làm này không được các chuyên gia y tế khuyến khích vì làn da của trẻ vô cùng nhạy cảm, làm vậy có thể tăng nguy cơ nhiễm khuẩn cho vết tiêm.\nTrường hợp trẻ sốt nhẹ, sốt 37-38 độ C, mẹ có thể dùng các biện pháp làm mát, hạ nhiệt, thuốc hạ sốt đặt hậu môn. Nếu sốt trên 38 độ thì dùng thuốc hạ sốt, tác dụng nhanh hơn."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Trường hợp không nên tiêm phòng cho trẻ",
+                    "content": "Mỗi loại vắc xin chống chỉ định với từng nhóm trẻ khác nhau. Chẳng hạn với vắc xin phòng lao, những trẻ sinh non, cân nặng dưới 2,5 kg phải tạm thời lùi thời điểm tiêm. Vắc xin được tiêm trong tháng đầu tiên đến 2 tháng tuổi.\n Do đó, trước khi đi tiêm phòng cho trẻ, mẹ cần tìm hiểu xem trẻ có thuộc đối tượng tiêm phòng hay không, đồng thời trao đổi với bác sĩ về tình hình hiện tại của trẻ.\nMột số trường hợp khác trẻ cũng không nên tiêm phòng, đó là: trẻ đang mắc bệnh cấp tính, thường biểu hiện sốt cao, mệt mỏi, ho, sổ mũi, tiêu chảy; trẻ mắc bệnh liên quan đến dị ứng, miễn dịch,.."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "Liều lượng tiêm cho trẻ trong mỗi lần tiêm phòng",
+                    "content": "Hai loại vắc xin sống không nên tiêm gần nhau trong khoảng thời gian 4 tuần. Ngoài ra có thể tiêm chủng nhiều loại vắc xin khác nhau trong một lần tiêm. Vắc xin sống bao gồm vắc xin phòng các bệnh như lao, sởi, thủy đậu…\nViệc tiêm nhiều mũi tiêm trong một lần tiêm phòng có thể khiến trẻ bị phản ứng, dị ứng và khó theo dõi do không biết cơ thể trẻ phản ứng với loại vắc xin nào. Do đó, tốt nhất nên tiêm một loại vắc xin cho một lần tiêm chủng.\nChỉ nên tiêm từ 2 loại vắc xin trở lên trong trường hợp điểm tiêm chủng ở xa nhà, trẻ ghép tạng…"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "Một số phản ứng sau khi tiêm ngừa",
+                    "content": "1. Sốt nhẹ\nSốt là phản ứng phổ biến nhất ở trẻ sau khi tiêm phòng. Đây là cách cơ thể trẻ phản ứng với thuốc và thường tự khỏi sau 1-2 ngày tiêm phòng. Tuy nhiên cũng có một vài trường hợp trẻ có thể sốt cao trên 39 độ C, khi đó bố mẹ hãy đưa trẻ đến gặp bác sĩ ngay để được điều trị kịp thời.\n2. Vết tiêm bị sưng đỏ, đau\nVấn đề này có thể tồn tại đến vài ngày nhưng đây hoàn toàn là phản ứng bình thường và sẽ tự khỏi, không đáng ngại. Có thể dùng phương pháp chườm lạnh ở chỗ tiêm để giảm đau cho trẻ.\n3. Dị ứng\nTrẻ có thể nổi các vết ban mề đay hoặc ngứa toàn thân… Thông thường, các biểu hiện dị ứng này sẽ tự khỏi sau vài ngày, nhưng nếu trẻ thấy khó chịu nhiều thì phải dùng một số thuốc chống dị ứng.\n4. Một số phản ứng khác\nỞ một số trường hợp, trẻ sẽ gặp phải các phản ứng hiếm gặp như tai biến thần kinh, viêm hạch, viêm não...Đây là những phản ứng nặng, có thể đe dọa tính mạng trẻ nếu bố mẹ không kịp thời đưa con đến bệnh viện."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "Lưu ý khi đưa trẻ đi tiêm phòng trong những ngày lạnh",
+                    "content": "Trong những ngày lạnh hoặc mưa phùn, bố mẹ đưa trẻ đi tiêm phòng cần chú ý giữ ấm cơ thể của trẻ. Tránh việc khí lạnh xâm nhập khiến trẻ dễ mắc các bệnh liên quan đến đường hô hấp. Lúc này, bố mẹ cần đảm bảo chân, tay và người trẻ đủ ấm, không để trẻ bị thấm nước mưa,..."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "Khi nào đưa trẻ đến bệnh viện",
+                    "content": "Sau khi tiêm phòng, nếu trẻ có các biểu hiện bất thường như trẻ sốt trên 39 độ C, sốt cao quá 2 ngày, co giật, chân tay lạnh, tím tái, khó thở, quấy khóc, không đáp ứng thuốc hạ sốt thông thường, bỏ bú, sưng to, đỏ quanh chỗ tiêm..., bố mẹ cần ngay lập tức đưa trẻ đến bệnh viện."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tiêm vắc xin cho trẻ",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Vắc xin",
+                    "content": "Vắc xin là biện pháp giúp phòng chống virus có hiệu quả, vì vậy cha mẹ cần có kế hoạch cụ thể để tiêm phòng cho trẻ. Kế hoạch tiêm phòng vắc xin ở nước ta chia làm hai loại: viêm phòng vắc xin mở rộng và tiêm phòng vắc xin dịch vụ. Với các loại vắc xin tiêm phòng mở rộng, tốt nhất cha mẹ nên đưa trẻ đến các trạm y tế, bệnh viện để tiêm đầy đủ. Còn với các loại vắc xin tiêm chủng dịch vụ, cha mẹ hãy căn cứ vào điều kiện kinh tế gia đình để đưa con em mình đi tiêm.\nTrong trường hợp trẻ bị một căn bệnh nào đó, trước hoặc sau khi uống thuốc có thể sẽ ảnh hưởng đến mũi tiêm vắc xin, vì thế cha mẹ cần nói rõ với bác sĩ tình trạng sức khỏe của trẻ để được tư vấn.\nLưu ý: tiêm phòng vắc xin mở rộng không ảnh hưởng đến việc chọn tiêm phòng dịch vụ. Bên cạnh đó, cha mẹ cần chú ý khi cho trẻ tiêm những mũi vắc xin như sởi, viêm não Nhật Bản B, bại liệt,... sau thời gian ít nhất 4 tuần mới có thể tiêm các loại vắc xin khác."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Tiêm chủng mở rộng",
+                    "content": "Tiêm phòng vắc xin theo chương trình tiêm chủng mở rộng là kế hoạch của nhà nước và là những mũi tiêm phòng miễn phí. Sau khi ra đời, trẻ cần được tiêm những mũi này.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F2.1.jpg?alt=media&token=8a20a981-9a6f-402c-9893-0a27bb968750"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Tiêm chủng dịch vụ",
+                    "content": "Tiêm phòng vắc xin theo dịch vụ là do nhu cầu, cha mẹ tự trả tiền. Cha mẹ hãy căn cứ vào tình trạng sức khỏe của trẻ và điều kiện kinh tế gia đình để quyết định sẽ tiêm cho trẻ những mũi tiêm chủng dịch vụ nào."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Trẻ 0-1 tuổi cần kiểm tra gì?",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Em bé sinh ra sau 42 ngày sẽ được sắp xếp kiểm tra sức khỏe tổng quát lần đầu tiên, sau đó đến lần lượt 3, 6, 9, 12 tháng tuổi kiểm tra mỗi dịp một lần. Các hạng mục kiểm tra sức khỏe cho trẻ là khá nhiều."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "1. Số đo chiều cao, cân nặng, chu vi đầu",
+                    "content": "Nếu đến tháng nào đó mà số liệu trở nên bất thường, lệch chuẩn quá nhiều, cha mẹ có thể theo lời khuyên của bác sĩ dùng các biện pháp điều chỉnh. Sau khi điều chỉnh có thể giúp tốc độ phát triển của trẻ trở lại bình thường."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "2. Da, răng, thóp",
+                    "content": "Nếu nghe tim có tạp âm, gan tỳ sưng to,... cần đưa trẻ đến bệnh viện kiểm tra và điều trị."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "3. Chức năng tim, gan, phổi",
+                    "content": "Nếu nghe tim có tạp âm, gan tỳ sưng to,... cần đưa trẻ đến bệnh viện kiểm tra và điều trị."
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "4. Thính lực",
+                    "content": "Nếu khi kiểm tra thính lực trẻ không đạt yêu cầu, cần kiểm tra lại lần nữa, nếu vẫn không đạt yêu cầu hãy đưa trẻ đến khoa tai mũi họng ở bệnh viện."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "5. Trí tuệ",
+                    "content": "Trẻ nên được kiểm tra trí tuệ khi được 8 tháng tuổi. Đặc biệt với những trẻ đẻ non, cân nặng thấp, song sinh hoặc ngạt khí tạm thời khi sinh ra, khi trẻ được 3, 8, 12 tháng tuổi cần tiến hành kiểm tra trí lực cho trẻ."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "6. Kiểm tra chi tiết",
+                    "content": "Trẻ 6 đến 9 tháng tuổi sẽ được tiến hành kiểm tra hemoglobin, các nguyên tố vi lượng, chủ yếu xem trẻ có bị thiếu máu, thiếu nguyên tố vi lượng không, nồng độ chì trong máu có cao không,..."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Cách cho trẻ uống thuốc",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "",
+                    "content": "Cho trẻ uống thuốc dường như là một nhiệm vụ khó khăn cho cả bố mẹ cũng như đứa trẻ vì nhiều loại thuốc có vị rất đắng và khó nuốt. Đừng vội nản chí, những cách cho bé uống thuốc dưới đây khá hiệu quả và được nhiều người áp dụng, bạn có thể tham khảo."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Cho bé uống thuốc đắng bằng muỗng",
+                    "content": "Đây là cách cho trẻ uống thuốc đơn giản và phổ biến nhất, bạn chỉ cần có thuốc và một chiếc muỗng bình thường là được.\nVới những trẻ sơ sinh và trẻ nhỏ, việc uống các viên thuốc dạng viên nén khá là khó bởi cổ họng của các bé khá nhỏ, dễ bị tắc thở do vậy các bố mẹ thường mua thuốc uống dạng siro hoặc phải nghiền nhỏ thuốc ra rồi pha với nước.\nSau đó đổ thuốc vào chiếc muỗng rồi đút cho trẻ giống như đút cháo, đút cơm vậy. Lưu ý, nên khử trùng muỗng thìa bằng nước sôi và rửa tay của bạn trước khi cho bé uống thuốc.\nĐừng để bé nằm thẳng xuống khi uống thuốc, bạn nên để bé ngồi hoặc bạn có thể ẵm bé vào lòng sao cho hơi nghiêng.\nSau khi uống một muỗng thuốc đắng thì lập tức phải cho bé uống ngay một muỗng nước, để vị đắng của thuốc nhanh chóng biến mất.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F4.1.jpg?alt=media&token=d7383103-90e1-4079-b7dc-3784b8987c4b"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "2. Cách cho bé uống thuốc đắng bằng ống Pipet",
+                    "content": "Cách dùng ống thuốc cũng khá đơn giản, bạn cần rửa sạch và khử trùng ống trước khi pha thuốc. Sau đó pha một lượng thuốc vừa phải ở trong cốc, dùng ống Pipet hút dung dịch thuốc vào bên trong ống.\n Chuẩn bị thêm một ống khác nhưng là đựng nước bình thường.\nGiữ em bé trong vòng tay của mình, sau đó đặt miệng ống lên môi dưới của bé. Sau đó dốc ống thuốc lên, bóp nhẹ đầu để dòng thuốc chảy xuống nhanh chóng.\nNgay sau đó bạn dùng ống thứ 2 có chứa nước rồi cho bé uống để vị đắng của thuốc nhanh biến mất.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F4.2.jpg?alt=media&token=3cae9d55-89f9-4e93-b9cd-c4ac126a7f0f"
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "3. Cách cho bé uống thuốc đắng bằng xilanh",
+                    "content": "Mỗi lần xịt thuốc vào miệng bé thì bạn lại cho bé uống thêm chút nước. Cách này khá nhanh, tiện lợi; thuốc uống ít khi bị đổ hay vung vãi ra ngoài khi bé quẫy đạp, hất tay từ chối uống.\nTuy nhiên, cũng vẫn cần lưu ý bơm thuốc mỗi lần một lượng vừa phải để bé không bị sặc, ngạt thở.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F4.3.jpg?alt=media&token=b61f9a95-0863-419a-a765-853b561e8468"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hộp thuốc OTC tại nhà",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Thuốc OTC là gì?",
+                    "content": "Theo FDA, thuốc ghi toa (Rx) là những thuốc sử dụng an toàn và hiệu quả khi có sự chỉ dẫn và theo dõi của bác sĩ, còn gọi là thuốc ETC. Còn thuốc không cần ghi toa hay OTC (Over-the-counter) là những thuốc có thể sử dụng an toàn và hiệu quả mà không cần chỉ dẫn và sự theo dõi của bác sĩ.\nCó những thuốc trước đây cần ghi toa, nhưng trải qua nhiều năm sử dụng đã chứng minh được độ an toàn cao và hiệu quả nên có thể được chuyển thành không cần ghi toa. Hiện tại có hơn 700 mặt hàng OTC đang được bán trên thị trường trước đây thuộc nhóm phải ghi toa.\nỞ nhiều nước, thuốc OTC được kiểm soát bởi một cơ quan quản lý để đảm bảo thuốc an toàn và hiệu quả khi sử dụng mà không có sự theo dõi của bác sĩ (Ở Mỹ là FDA). Thuốc OTC thường được quy định bởi các hoạt chất dược phẩm (API), chứ không phải sản phẩm cuối cùng. Bằng cách điều chỉnh các API thay vì các công thức thuốc cụ thể, các chính phủ cho phép các nhà sản xuất tự do để xây dựng thành phần, hoặc kết hợp các thành phần vào hỗn hợp độc quyền.\nTheo thời gian, thường là 3 – 5 năm, các thuốc phải được chứng minh là an toàn mới được chuyển sang dạng OTC. Ví dụ như Diphenhydramine (Benadryl) là một chất kháng histamine, hay gần đây hơn là Cimetidine và Loratadine hay Ibuprofen được chấp nhận là thuốc OTC.\n Một vài thuốc OTC bị xem xét và thu hồi khỏi thị trường. Phenylpropanolamin là một ví dụ, nó bị FDA cấm tiêu thụ tại Hoa Kỳ bởi liên quan đến đột quỵ ở các phụ nữ trẻ."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Hộp thuốc OTC gia đình",
+                    "content": "Một vài loại thuốc OTC nên có trong hộp thuốc của gia đình đang nuôi con nhỏ",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F5.1.jpg?alt=media&token=0368cce8-f417-4efc-bdb7-f60630140086"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Quy tắc dùng thuốc cho trẻ",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Trẻ em không phải là người lớn thu nhỏ",
+                    "content": "Sự khác biệt căn bản giữa trẻ em và người lớn chính là thể trạng sinh lý với các chức năng của cơ thể không làm việc giống nhau, vì cơ thể trẻ thơ không biểu hiện sự trưởng thành mọi mặt như người lớn. Bên cạnh đó, cơ thể người lớn khi bị thuốc tác động thì phản ứng ngược lại để tìm cách thải trừ thuốc ra khỏi cơ thể, đó chính là sự chuyển hóa của thuốc, thường diễn ra ở gan và thải trừ qua thận. Với trẻ em, cơ chế này đang hình thành nên việc giải độc kém."
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "2. Chỉ dùng thuốc khi thực sự cần thiết",
+                    "content": "Có thể không cần dùng thuốc thì không nên dùng, có thể dùng thuốc nhẹ thì không dùng thuốc nặng. Nếu trẻ mới bị ốm, tình trạng không nghiêm trọng thì hoàn toàn chưa cần dùng thuốc, hãy cho trẻ uống nhiều nước, nghỉ ngơi nhiều, quan sát trẻ 2-3 ngày, nếu lúc đó tình trạng không khá lên thì dùng thuốc cũng chưa muộn. Những trẻ ít bị ốm hoặc nếu bị ốm không dùng thuốc nặng, thì hoàn toàn không cần thiết dùng thuốc nặng, chỉ cần thuốc đó chữa đúng bệnh thì cho dù thuốc có hiệu quả thấp vẫn hoàn toàn có thể chữa khỏi bệnh cho trẻ.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F6.1.jpg?alt=media&token=eec41c25-9265-486a-b4be-f7239da077af"
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "3. Đúng liều chỉ định là ưu tiên hàng đầu",
+                    "content": "Cơ thể trẻ em chưa được trang bị các khả năng chuyển hóa đầy đủ để dễ dàng đào thải, phương thức loại trừ độc chất ra khỏi cơ thể cũng không mạnh mẽ như của người lớn. Với việc sử dụng liều lượng thuốc không thích hợp, thuốc sẽ dễ dàng và nhanh chóng tích tụ trong cơ thể gây ngộ độc. Vì thế, không nên tự động chia liều thuốc người lớn nhỏ ra để cho trẻ nhỏ uống nếu không có chỉ định liều lượng của thầy thuốc."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "4. Chú ý đến dạng thuốc",
+                    "content": "Về mặt cơ thể học, trẻ em có rất nhiều cơ quan khác với người lớn, vì các cơ quan đó đang trong giai đoạn hình thành. Một thí dụ điển hình là làn da trẻ em rất mịn, mỏng, yếu ớt so với da cha mẹ. Từ đó, các loại thuốc bôi da sử dụng tại chỗ như kem, pô-mát… có khả năng thâm nhập vào da sâu hơn và dễ dàng đi vào hệ tuần hoàn máu. Khi đã vào máu, các hoạt chất có thể tác động trực tiếp kéo theo những tác dụng phụ gây hại lên cơ thể trẻ em từ đó dễ dẫn đến ngộ độc thuốc.id"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "5. Chú ý đến hoạt chất trị bệnh",
+                    "content": "Ở trẻ em, hầu như toàn thể các cơ quan đều đang trên đường phát triển hay trưởng thành. Một số hoạt chất có thể làm rối loạn tiến trình này. Kháng sinh thuộc nhóm cycline đã được biết từ lâu gây ra tình trạng vàng răng không chữa được ở trẻ em và gây chậm phát triển men răng làm cho răng dễ hư hỏng. Vì thế, có nhiều loại thuốc chỉ dùng được cho người lớn mà không được dùng cho trẻ em hoặc cho người mẹ mang thai để khỏi làm rối loạn tiến trình tăng trưởng của trẻ hoặc bào thai. Đây là vấn đề cần được nhấn mạnh để bảo vệ sức khỏe trẻ em vì hiện nay việc tự ý mua thuốc về uống trị bệnh cho con rất phổ biến."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "6. Tâm lý thích dùng thuốc mới, thuốc mạnh, thuốc đắt tiền",
+                    "content": "Nhiều người thích sử dụng kháng sinh “cho mau hết bệnh” do quan niệm xem kháng sinh như là thần dược trị bách bệnh dẫn đến tình trạng lạm dụng kháng sinh, nhất là các loại kháng sinh thế hệ mới tác dụng mạnh và đắt tiền. Một nhóm thuốc cũng thường bị lạm dụng nữa là các thuốc có chứa nội tiết tố nang thượng thận (gọi chung là thuốc corticoid) chỉ nên dùng khi có chỉ định rõ ràng của bác sĩ điều trị, không nên nghe “thuốc mới”, “thuốc hay”, “thuốc đắt tiền” mà đã vội tự ý mua dùng cho bé để rồi sau này bé bị nhờn thuốc hoặc chịu các tác dụng phụ do thuốc gây ra."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "7. Đề phòng việc “dụ dỗ” con uống thuốc",
+                    "content": "Nhiều bé rất khó uống thuốc và các bậc cha mẹ cưng con mỗi khi đưa thuốc cho trẻ uống, thấy trẻ phản kháng không chịu uống thường “dụ dỗ” con rằng “dùng đi, kẹo đấy”, nhất là những dạng thuốc trẻ em có mùi thơm, ngọt. Điều này rất nguy hiểm vì khi thiếu vắng cha mẹ hoặc người giữ trẻ, bé có thể uống một khối lượng thuốc ở trong tầm tay vì tưởng là kẹo gây ra ngộ độc thuốc. Do vậy, các bậc cha mẹ nên “luôn luôn để thuốc xa tầm tay trẻ em”. Rất nhiều tai nạn đã xảy ra do bé nghịch thuốc."
+                },
+                {
+                    "contentId": 8,
+                    "contentName": "8. Làm gì khi bé bị tai nạn thuốc?",
+                    "content": "Để phòng tai nạn về thuốc cho trẻ em, các bậc cha mẹ cần nhớ:\n- Tủ thuốc gia đình luôn luôn ở cao khỏi tầm tay trẻ em và đóng lại cẩn thận. Nếu có trẻ hiếu động hay nghịch phá thì tủ thuốc phải khóa lại.\n- Thuốc người lớn mang ra uống thì phải uống ngay, tránh để tạm một nơi nào rồi quên, bé sẽ dễ dàng bỏ vào miệng.\n- Trường hợp bé nuốt phải thuốc, cần làm cho bé ói càng sớm, càng nhiều càng tốt.\n- Tìm xem bé đã uống phải loại thuốc gì, kiểm tra thuốc dùng dở dang, thuốc thiếu còn nằm trong túi, thuốc rơi vãi dưới bàn ghế hay trên mặt đất... và mang theo khi đưa bé nhập viện để tiện biết nguyên nhân ngộ độc và dùng chất đối kháng (antidote) chữa trị.\n - Có thể gọi điện thoại đến khoa cấp cứu để được hướng dẫn cấp cứu tạm thời và nhập viện càng sớm càng tốt vì sau 4 giờ thuốc có thể ngấm vào cơ thể."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Dùng thuốc an toàn trong thời kỳ cho con bú",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "Các thuốc tương đối an toàn",
+                    "content": "Hầu hết các thuốc không kê đơn (OTC) tương đối an toàn khi dùng ở các bà mẹ đang cho con bú, ngoại trừ các thuốc kháng histamin (thường có trong các thuốc điều trị ho, cảm lạnh, thuốc dị ứng, thuốc say tàu xe) nếu dùng liều cao và trong thời gian dài, aspirin và các salicylat khác. Các dạng thuốc dùng tại chỗ như thuốc dùng ngoài da, tại mắt, tại mũi hoặc các dạng thuốc hít thường an toàn. Một vài loại thuốc như heparin, insulin không qua sữa mẹ vì vậy an toàn cho trẻ khi mẹ dùng. Một số thuốc có thể qua sữa mẹ nhưng trẻ hấp thu một lượng rất nhỏ nên không ảnh hưởng đến trẻ bú mẹ ví dụ các kháng sinh: gentamicin, kanamycin, streptomycin.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/medicineAndVaccination%2F7.1.jpg?alt=media&token=fb5bc49e-21fe-400a-8e2b-3d59bd66a43f"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "Thuốc cần sự giám sát của bác sĩ",
+                    "content": "Một số thuốc khi sử dụng trong thời kỳ cho con bú cần có sự giám sát của bác sĩ trong quá trình dùng thuốc. Để sử dụng các thuốc này an toàn trong thời kỳ cho con bú, các bác sĩ sẽ có thể cần: hiệu chỉnh liều; hạn chế thời gian sử dụng thuốc; tuân thủ thời điểm uống thuốc liên quan đến thời điểm cho con bú.\nHầu hết các thuốc an thần, thuốc điều trị trầm cảm và thuốc chống loạn thần khi dùng ở bà mẹ cho con bú cần sự giám sát của bác sĩ, mặc dù thuốc không có khả năng gây ra những vấn đề nghiêm trọng ở trẻ bú mẹ, tuy nhiên, những thuốc này thường tồn tại trong cơ thể một thời gian dài. Trong những tháng đầu tiên, trẻ có thể chưa đủ khả năng thải trừ thuốc, vì vậy thuốc có thể ảnh hưởng đến hệ thần kinh của trẻ. Chẳng hạn, như các thuốc an thần như: diazepam (một thuốc thuộc nhóm benzodiazepin) có thể gây lờ đờ, buồn ngủ và giảm cân ở trẻ bú mẹ. Cơ thể trẻ thải trừ thuốc phenobarbital (một thuốc chống động kinh thuộc nhóm barbiturat) chậm, vì vậy thuốc này có thể gây buồn ngủ ở trẻ bú mẹ. Do những ảnh hưởng này, bác sĩ sẽ giảm liều thuốc benzodiazepin và barbiturat cũng như theo dõi việc sử dụng thuốc ở các bà mẹ cho con bú."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Thuốc không nên dùng trong thời kỳ cho con bú",
+                    "content": "Một số thuốc không nên sử dụng trong thời kỳ cho con bú như: amphetamin; hóa trị liệu điều trị ung thư; một số thuốc kháng sinh; ergotamin (sử dụng để điều trị đau nửa đầu); lithium; các hợp chất phóng xạ sử dụng trong quy trình chẩn đoán; cocaine, heroin; thuốc làm giảm tiết sữa (bromocriptin - sử dụng để điều trị Parkinson, thuốc tránh thai có chứa estrogen...).\nNếu người mẹ cần thiết phải sử dụng các thuốc có thể gây hại cho trẻ thì nên ngừng cho trẻ bú trong thời gian sử dụng thuốc và có thể cho trẻ bú lại sau khi ngừng dùng thuốc. Trong quá trình dùng thuốc, người mẹ cần duy trì lượng sữa mẹ bằng cách vắt sữa bỏ đi và dùng sữa ngoài thay thế cho trẻ. Sau khi ngừng dùng thuốc, cần chờ thêm một khoảng thời gian thích hợp để thuốc thải trừ hết khỏi cơ thể mẹ rồi lúc này mẹ mới cho trẻ bú lại.\nTóm lại, trong thời kỳ nuôi con bằng sữa mẹ, việc dùng thuốc ở người mẹ phải hết sức thận trọng để tránh gây hậu quả cho con. Người mẹ cần phải tham khảo ý kiến của nhân viên y tế (dược sĩ, bác sĩ) trước khi dùng bất cứ loại thuốc nào, thậm chí thuốc không đơn và thảo dược. Nên đọc kỹ thông tin nhãn thuốc để biết liệu thuốc có cảnh báo đặc biệt liên quan đến việc dùng thuốc trong thời kỳ cho con bú hay không."
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "4. Chú ý đến dạng thuốc",
+                    "content": "Về mặt cơ thể học, trẻ em có rất nhiều cơ quan khác với người lớn, vì các cơ quan đó đang trong giai đoạn hình thành. Một thí dụ điển hình là làn da trẻ em rất mịn, mỏng, yếu ớt so với da cha mẹ. Từ đó, các loại thuốc bôi da sử dụng tại chỗ như kem, pô-mát… có khả năng thâm nhập vào da sâu hơn và dễ dàng đi vào hệ tuần hoàn máu. Khi đã vào máu, các hoạt chất có thể tác động trực tiếp kéo theo những tác dụng phụ gây hại lên cơ thể trẻ em từ đó dễ dẫn đến ngộ độc thuốc.id"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "5. Chú ý đến hoạt chất trị bệnh",
+                    "content": "Ở trẻ em, hầu như toàn thể các cơ quan đều đang trên đường phát triển hay trưởng thành. Một số hoạt chất có thể làm rối loạn tiến trình này. Kháng sinh thuộc nhóm cycline đã được biết từ lâu gây ra tình trạng vàng răng không chữa được ở trẻ em và gây chậm phát triển men răng làm cho răng dễ hư hỏng. Vì thế, có nhiều loại thuốc chỉ dùng được cho người lớn mà không được dùng cho trẻ em hoặc cho người mẹ mang thai để khỏi làm rối loạn tiến trình tăng trưởng của trẻ hoặc bào thai. Đây là vấn đề cần được nhấn mạnh để bảo vệ sức khỏe trẻ em vì hiện nay việc tự ý mua thuốc về uống trị bệnh cho con rất phổ biến."
+                },
+                {
+                    "contentId": 6,
+                    "contentName": "6. Tâm lý thích dùng thuốc mới, thuốc mạnh, thuốc đắt tiền",
+                    "content": "Nhiều người thích sử dụng kháng sinh “cho mau hết bệnh” do quan niệm xem kháng sinh như là thần dược trị bách bệnh dẫn đến tình trạng lạm dụng kháng sinh, nhất là các loại kháng sinh thế hệ mới tác dụng mạnh và đắt tiền. Một nhóm thuốc cũng thường bị lạm dụng nữa là các thuốc có chứa nội tiết tố nang thượng thận (gọi chung là thuốc corticoid) chỉ nên dùng khi có chỉ định rõ ràng của bác sĩ điều trị, không nên nghe “thuốc mới”, “thuốc hay”, “thuốc đắt tiền” mà đã vội tự ý mua dùng cho bé để rồi sau này bé bị nhờn thuốc hoặc chịu các tác dụng phụ do thuốc gây ra."
+                },
+                {
+                    "contentId": 7,
+                    "contentName": "7. Đề phòng việc “dụ dỗ” con uống thuốc",
+                    "content": "Nhiều bé rất khó uống thuốc và các bậc cha mẹ cưng con mỗi khi đưa thuốc cho trẻ uống, thấy trẻ phản kháng không chịu uống thường “dụ dỗ” con rằng “dùng đi, kẹo đấy”, nhất là những dạng thuốc trẻ em có mùi thơm, ngọt. Điều này rất nguy hiểm vì khi thiếu vắng cha mẹ hoặc người giữ trẻ, bé có thể uống một khối lượng thuốc ở trong tầm tay vì tưởng là kẹo gây ra ngộ độc thuốc. Do vậy, các bậc cha mẹ nên “luôn luôn để thuốc xa tầm tay trẻ em”. Rất nhiều tai nạn đã xảy ra do bé nghịch thuốc."
+                },
+                {
+                    "contentId": 8,
+                    "contentName": "8. Làm gì khi bé bị tai nạn thuốc?",
+                    "content": "Để phòng tai nạn về thuốc cho trẻ em, các bậc cha mẹ cần nhớ:\n- Tủ thuốc gia đình luôn luôn ở cao khỏi tầm tay trẻ em và đóng lại cẩn thận. Nếu có trẻ hiếu động hay nghịch phá thì tủ thuốc phải khóa lại.\n- Thuốc người lớn mang ra uống thì phải uống ngay, tránh để tạm một nơi nào rồi quên, bé sẽ dễ dàng bỏ vào miệng.\n- Trường hợp bé nuốt phải thuốc, cần làm cho bé ói càng sớm, càng nhiều càng tốt.\n- Tìm xem bé đã uống phải loại thuốc gì, kiểm tra thuốc dùng dở dang, thuốc thiếu còn nằm trong túi, thuốc rơi vãi dưới bàn ghế hay trên mặt đất... và mang theo khi đưa bé nhập viện để tiện biết nguyên nhân ngộ độc và dùng chất đối kháng (antidote) chữa trị.\n - Có thể gọi điện thoại đến khoa cấp cứu để được hướng dẫn cấp cứu tạm thời và nhập viện càng sớm càng tốt vì sau 4 giờ thuốc có thể ngấm vào cơ thể."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Wonder Week - Tuần khủng hoảng",
+    "title": "Tuần khủng hoảng wonder week là gì? Diễn ra vào thời điểm nào? Tại sao trẻ nhỏ lại có thời kì khó tính như vậy?",
+    "wonderWeeksData": [
+        {
+            "id": 1,
+            "name": "Những điều mẹ cần biết về Wonder week",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "1. Wonder weeks là gì?",
+                    "content": "Wonder week có thể hiểu đơn giản là thời kỳ con “bỗng nhiên” trở nên “rất hư”, hay gắt gỏng, hay thức dậy khóc lúc nửa đêm, biếng ăn.. mà không phải do ốm/sốt. Đây là giai đoạn bước đệm để con chuẩn bị có những bước tiến vượt bậc về các kỹ năng mới.\n*  Wonder Weeks (ww) là thời gian mà các con tập trung phát triển kỹ năng và tinh thần cho nên quên hết cả ăn và ngủ.\n*  Tuần này các mẹ phải đương đầu với 3 C’s_ Crying, clinginess, crankiness.\n*  Thường các tuần này các con học cách hóng chuyện, học lẫy, học bò, học ngồi hoặc học đi (tất nhiên không phải trùng khớp nhưng thường là sự khởi đầu của một bước phát triển mới).\n*  Wonder weeks còn là phát triển về trí não (mental leap).\n*  Điển hình của các WW là các con cực cáu bẳn, không ăn không ngủ. Các mẹ tưởng con bị ốm hay “bị làm sao”. Trên thực tế là các con đang vào giai đoạn phát triển về trí não nên bỏ bê phát triển thể chất. Các mẹ hiểu được điều này thì đỡ làm khổ mình và làm khổ các con.\n*  Wonder week có 10 major leaps vào các tuần sau: 5-8-12-19-26-37-46-55-64-75. Thường biểu hiện bắt đầu trước đó khoảng 3-4 tuần và kết thúc vào những tuần kể trên. Có bé sớm hơn có bé muộn hơn, có bé bị cả tháng, có bé chỉ bị vài ngày.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/wonderweek%2F1.1.jpg?alt=media&token=91fd2309-c680-47d6-be83-684341c7fdde"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "2. Vì sao đến thời kì Wonder Week con lại “Khó ở”? ",
+                    "content": "Khi bạn nhận được một cái máy ảnh chẳng hạn, bạn nóng lòng muốn sử dụng, mà lại không biết cách. Bạn sốt sắng tìm hiểu, mày mò hàng giờ thậm chí vài ngày cho đến khi sử dụng được chiếc máy mới thôi. Và con của bạn cũng vậy đó.\nKhi con lớn, bước vào một thời kỳ mới, có những kỹ năng mới xuất hiện. Và con cũng cần thời gian để học, để kiểm soát và thành thạo các kỹ năng đó. Trong thời gian này, con tập trung vào việc “học hành”, “luyện tập” mà quên đi các sinh hoạt khác, như ăn, ngủ… Những lúc chưa làm được, hoặc làm chưa thành thạo, con cũng sẽ cáu bẳn, khó chịu, và cả khóc lóc ăn vạ nữa."
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "Biểu hiện của bé khi trong giai đoạn wonder week (tuần khủng hoảng) ",
+                    "content": "Với bất cứ 1 em bé bình thường nào thì trong vòng 20 tháng đầu đời đều sẽ trải qua 10 tuần khủng hoảng. Biểu hiện khi trẻ đang ở tuần wonder week có thể dễ nhận qua như:\n*  Quấy khóc cả ngày.Trước đó, bé đang ngủ rất thẳng giấc và sâu. Đang ngủ ngon, đột nhiên dậy khóc, càng dỗ càng khóc to và dường như ko có cách gì để bé dừng khóc.\n*  Chán ăn, bỏ ăn, ăn ít hơn dù trước đó đang ăn rất tốt.\n*  Đòi bế cả ngày, bám mẹ và nũng nịu mẹ nhiều hơn.\n*  Nhút nhát hơn, sợ người lạ.\n*  hen tị.\n*  Thay đổi tâm trạng nhanh chóng và không thể lường trước được.\n*  Mút tay nhiều, thích ôm ấp 1 món đồ quen thuộc nhiều hơn.\n*  Đối với các bé lớn (trên 1 tuổi), có thể có nhiều hành động “trở lại tuổi thơ”. Ví dụ như bé đã biết đi tự nhiên lại thích bò, bé đã biết xúc lại đòi bốc tay, bé đã cai sữa lại đòi ti mẹ,…"
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "4. Con sẽ “Khó ở” vào những giai đoạn nào? ",
+                    "content": "Sau khi nghiên cứu các em bé trong nhiều năm, người ta đã tổng kết đưực rằng trong 20 tháng đầu đời, các bé sẽ trải qua 10 kỳ phát triển vào khoảng các tuần: 5 - 8 - 12 - 19 - 26 - 37 - 46 - 55 - 64 - 75. Lưu ý những tuần vừa kể trên là những tuần mà đa số các bé hoàn thành hoặc xuất hiện kĩ năng, nhận thức mới. Còn thời kì “khủng hoảng” của các con đã có trước đó một vài tuần.",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/wonderweek%2F1.2.jpeg?alt=media&token=e6f1d846-76a2-4837-a7e6-0cd9949edd54"
+                },
+                {
+                    "contentId": 5,
+                    "contentName": "5. Thời gian “bão tố” sẽ kéo dài trong bao lâu? ",
+                    "content": "Theo nghiên cứu thì thời gian bé rơi vào tuần “khủng hoảng” là khoảng 1- 6 tuần. Bé càng lớn thì “mưa bão” càng lâu và mật độ khó chịu cũng sẽ mạnh hon so với khi còn bé. Theo kinh nghiệm của nhiều mẹ, thì khoảng từ WW 46 trở đi thì mức độ quấy nhiễu, khó chiều, ăn ngủ thất thường và bám mẹ của các “đại ca” càng tăng lên theo độ tuổi và đỉnh điểm rơi vào WW 75 (khoảng 18 tháng). Càng về sau, thời gian WW cũng lâu hơn, có bé còn WW theo kiểu đứt quãng, tức là 1 tuần hư lại 1 tuần ngoan kéo dài trong khoảng 6 tuần, thậm chí có bé kéo dài WW lên đến 8 tuần.\nTuy nhiên, đa số các bé sẽ bước vào thời kỳ “nắng đẹp” khi đã thành thạo kĩ năng mới. Ví dụ, khi bé đi vững, làm chủ được bước chân của mình, ít bị vấp ngã thì bé sẽ thường dễ tính hơn và quay trở lại nếp sinh hoạt ăn ngủ bình thường. "
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Wonder Week 5 tuần tuổi",
+            "data": [
+                {
+                    "contentId": 1,
+                    "contentName": "A. Các dấu hiệu cho thấy bé đang trong thời kỳ “khó ở”: ",
+                    "content": "1. Quấy khóc nhiều hơn bình thường, đôi khi khóc vài tiếng liên tục.\n2. Khó ngủ, ngủ không yên giấc, tỉnh giấc giữa đêm, bú đêm nhiều hơn, dậy sớm hơn.\n3. Bám mẹ, khóc ngay khi mẹ vừa rời đi.\n4. Đòi hỏi nhiều sự quan tâm hơn từ mẹ, muốn được mẹ ôm ấp, muốn mẹ ở bên cạnh mọi lúc mọi nơi, rúc vú mẹ.\n5. Biếng bú,\n6. Muốn được mẹ vỗ về khi đang bú, đòi hỏi vú mẹ hoặc vú bình liên tục. (không phải vì đói).\nLưu ý: Rung lắc để dỗ dành trẻ có thể gây ra sự chảy máu trong ở khu vực sau xương sọ và điều này có thể dẫn đến tổn thương não khiến cho trẻ sẽ bị chứng khó tiếp thu khi bước vào lứa tuổi đi học hoặc thậm chí bị tử vong. ",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/baby-5fa1e.appspot.com/o/wonderweek%2F2.1.jpeg?alt=media&token=2d7dfbc1-201f-4db1-ac71-2b04c35cbd2d"
+                },
+                {
+                    "contentId": 2,
+                    "contentName": "B. Các kĩ năng mới xuất hiện như thế nào:",
+                    "content": "14 đến 5 tuần, em bé của bạn sẽ có những thay đổi đáng kể về cách bé trải nghiệm thế giới xung quanh, cách bé cảm nhận sự vật, thậm chí cả cách bé tiêu hóa sữa của mình. Một vài sự thay đổi này sẽ dẫn đến những kết quả trực tiếp mà bạn có thể nhìn thấy như bé khóc ra nước mắt, bé có thể thức với thời gian dài hơn và có vẻ thích thú với thế giới xung quanh hơn.\n5 đến 6 tuần, em bé thậm chí có thể cảm nhận được một vài sự thay đổi thú vị như bé bắt đầu sử dụng nụ cười để giao tiếp với bạn. "
+                },
+                {
+                    "contentId": 3,
+                    "contentName": "C. Các cách giúp bé bình tĩnh: ",
+                    "content": "1. Giúp bé an tâm bằng phương pháp da tiếp da (skin-to skin contact).\n2. Ôm ấp, vuốt ve bé, xoa lưng cho bé . Đung đưa bé nhẹ nhàng hoặc vừa ngồi rocking chair vừa bế bé. TUYỆT ĐỐI KHÔNG RUNG LẮC.\n3. Hát/ Bật cho bé nghe những giai điệu nhẹ nhàng, du dương hoặc white noise.\n4. Cho bé đi tắm nước ấm trước khi ngủ, đặt bé vào khăn tắm ấm sau đó mát xa nhẹ nhàng với dầu em bé.\n5. Cho bé đi lại quanh phòng khi bé nằm trong địu, trên xe đẩy hoặc ngồi trong xe ô tô. "
+                },
+                {
+                    "contentId": 4,
+                    "contentName": "D. Hỗ trợ bé phát triển kĩ năng bằng cách:",
+                    "content": "1. Hỗ trợ bé khám phá thế giới xung quanh thông qua rèn luyện tầm nhìn.\n- Nếu bạn bế bé đi dạo xung quanh, bạn sẽ tự động nhận thấy được bé thích nhìn vào cái gì nhất. Cho bé đủ thời gian để có thể quan sát những đồ vật, sự việc và đừng quên khả năng tập trung của bé không hơn khoảng cách một bước chân là bao nhiêu. Nếu bạn nhận thấy bé bắt đầu chán, hãy cho bé xem những đồ vật tương tự như đồ vật bé thích nhưng có điểm khác biệt.\n2. Hỗ trợ bé khám phá thế giới xung quanh thông qua âm thanh:\n– Những âm thanh như tiếng kêu vo vo, tiếng chuông reo, tiếng xào xạ hay tiếng nói có thể làm bé thích thú. Âm thanh cao vút khiến bé thú vị nhưng bé thích nhất là giọng nói của mẹ.\n– Cho dù bé mới 5 tuần tuổi thì bạn hãy có những buổi tâm sự thân mật với bé. Chọn một nơi thoải mái để ngồi và để mặt bạn sát gần bé rồi tâm sự với bé về bất cứ thứ gì bạn có thể nghĩ ra. Vừa nói vừa dừng lại một chút để bé có thời gian hồi đáp.\nHỗ trợ bé khám phá thế giới xung quanh thông qua động chạm:\n– Sự âu yếm thân mật với bé, những cú cù ky nhẹ nhàng có thể làm bé cười nhưng nếu mọi người đều làm thế, khiến bé quá tải thì có thể bé sẽ phản ứng ngược lại. Vì vậy hãy dừng lại ngay khi bạn nhận thấy bé không thích ứng với sự âu yếm của mọi người nữa. "
+                }
+            ]
+        }
+    ]
+}
